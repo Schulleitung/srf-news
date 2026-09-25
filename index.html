@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SRF Sport News</title>
+
+<title>SRF Sport Newswall</title>
 
 <style>
 
@@ -23,11 +24,11 @@ body{
     height:60px;
     background:#d50000;
     color:white;
-    font-size:28px;
-    font-weight:bold;
     display:flex;
     align-items:center;
     padding:0 20px;
+    font-size:28px;
+    font-weight:bold;
 }
 
 .grid{
@@ -41,9 +42,9 @@ body{
 
 .card{
     position:relative;
-    background:#222;
     overflow:hidden;
     border-radius:6px;
+    background:#222;
 }
 
 .image{
@@ -51,6 +52,7 @@ body{
     height:100%;
     background-size:cover;
     background-position:center;
+    background-repeat:no-repeat;
 }
 
 .overlay{
@@ -63,31 +65,174 @@ body{
 
     color:white;
 
-    padding:12px;
-
-    font-weight:bold;
+    padding:14px;
 
     font-size:1.15vw;
-
+    font-weight:bold;
     line-height:1.3;
 }
 
 .footer{
     height:40px;
     background:#000;
+    overflow:hidden;
     display:flex;
     align-items:center;
-    overflow:hidden;
 }
 
 .ticker{
-    color:white;
     white-space:nowrap;
-    padding-left:100%;
-    animation:ticker 60s linear infinite;
+    color:white;
     font-size:18px;
+    padding-left:100%;
+    animation:ticker 80s linear infinite;
 }
 
 @keyframes ticker{
     from{
         transform:translateX(0);
+    }
+    to{
+        transform:translateX(-100%);
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="header">
+    SRF SPORT
+</div>
+
+<div class="grid">
+
+    <div class="card">
+        <div class="image" id="img0"></div>
+        <div class="overlay" id="title0">Lade News...</div>
+    </div>
+
+    <div class="card">
+        <div class="image" id="img1"></div>
+        <div class="overlay" id="title1"></div>
+    </div>
+
+    <div class="card">
+        <div class="image" id="img2"></div>
+        <div class="overlay" id="title2"></div>
+    </div>
+
+    <div class="card">
+        <div class="image" id="img3"></div>
+        <div class="overlay" id="title3"></div>
+    </div>
+
+    <div class="card">
+        <div class="image" id="img4"></div>
+        <div class="overlay" id="title4"></div>
+    </div>
+
+    <div class="card">
+        <div class="image" id="img5"></div>
+        <div class="overlay" id="title5"></div>
+    </div>
+
+</div>
+
+<div class="footer">
+    <div class="ticker" id="ticker">Lade Schlagzeilen...</div>
+</div>
+
+<script>
+
+const feedUrl =
+'https://api.allorigins.win/raw?url=' +
+encodeURIComponent('https://www.srf.ch/sport/bnf/rss/718');
+
+let allNews = [];
+let page = 0;
+
+function extractImage(description){
+
+    const match = description.match(/<img.*?src="(.*?)"/i);
+
+    if(match){
+        return match[1];
+    }
+
+    return '';
+}
+
+function updateDisplay(){
+
+    if(allNews.length === 0){
+        return;
+    }
+
+    const start = page * 6;
+    let current = allNews.slice(start,start+6);
+
+    if(current.length < 6){
+        page = 0;
+        current = allNews.slice(0,6);
+    }
+
+    current.forEach((item,index)=>{
+
+        document.getElementById('title'+index).innerText =
+            item.title;
+
+        document.getElementById('img'+index).style.backgroundImage =
+            item.image
+            ? `url('${item.image}')`
+            : 'linear-gradient(135deg,#444,#222)';
+
+    });
+
+    page++;
+
+    if(page * 6 >= allNews.length){
+        page = 0;
+    }
+}
+
+async function loadFeed(){
+
+    try{
+
+        const response = await fetch(feedUrl);
+
+        const xmlText = await response.text();
+
+        const parser = new DOMParser();
+
+        const xml = parser.parseFromString(
+            xmlText,
+            "text/xml"
+        );
+
+        const items =
+            xml.querySelectorAll("item");
+
+        allNews = [];
+
+        items.forEach(item => {
+
+            const title =
+                item.querySelector("title")?.textContent || "";
+
+            const description =
+                item.querySelector("description")?.textContent || "";
+
+            allNews.push({
+
+                title:title,
+
+                image:extractImage(description)
+
+            });
+
+        });
+
+        document.getElementById("ticker
