@@ -3,8 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>SRF Sport Newswall</title>
+<title>SRF Sport News</title>
 
 <style>
 
@@ -24,11 +23,11 @@ body{
     height:60px;
     background:#d50000;
     color:white;
+    font-size:28px;
+    font-weight:bold;
     display:flex;
     align-items:center;
     padding:0 20px;
-    font-size:28px;
-    font-weight:bold;
 }
 
 .grid{
@@ -42,9 +41,9 @@ body{
 
 .card{
     position:relative;
+    background:#222;
     overflow:hidden;
     border-radius:6px;
-    background:#222;
 }
 
 .image{
@@ -52,7 +51,6 @@ body{
     height:100%;
     background-size:cover;
     background-position:center;
-    background-repeat:no-repeat;
 }
 
 .overlay{
@@ -65,27 +63,29 @@ body{
 
     color:white;
 
-    padding:14px;
+    padding:12px;
+
+    font-weight:bold;
 
     font-size:1.15vw;
-    font-weight:bold;
+
     line-height:1.3;
 }
 
 .footer{
     height:40px;
     background:#000;
-    overflow:hidden;
     display:flex;
     align-items:center;
+    overflow:hidden;
 }
 
 .ticker{
-    white-space:nowrap;
     color:white;
-    font-size:18px;
+    white-space:nowrap;
     padding-left:100%;
-    animation:ticker 80s linear infinite;
+    animation:ticker 60s linear infinite;
+    font-size:18px;
 }
 
 @keyframes ticker{
@@ -110,7 +110,7 @@ body{
 
     <div class="card">
         <div class="image" id="img0"></div>
-        <div class="overlay" id="title0">Lade News...</div>
+        <div class="overlay" id="title0">Lade News ...</div>
     </div>
 
     <div class="card">
@@ -141,98 +141,83 @@ body{
 </div>
 
 <div class="footer">
-    <div class="ticker" id="ticker">Lade Schlagzeilen...</div>
+    <div class="ticker" id="ticker"></div>
 </div>
 
 <script>
 
-const feedUrl =
-'https://api.allorigins.win/raw?url=' +
-encodeURIComponent('https://www.srf.ch/sport/bnf/rss/718');
+const FEED =
+'https://api.rss2json.com/v1/api.json?rss_url=https://www.srf.ch/sport/bnf/rss/718';
 
-let allNews = [];
+let news = [];
 let page = 0;
-
-function extractImage(description){
-
-    const match = description.match(/<img.*?src="(.*?)"/i);
-
-    if(match){
-        return match[1];
-    }
-
-    return '';
-}
-
-function updateDisplay(){
-
-    if(allNews.length === 0){
-        return;
-    }
-
-    const start = page * 6;
-    let current = allNews.slice(start,start+6);
-
-    if(current.length < 6){
-        page = 0;
-        current = allNews.slice(0,6);
-    }
-
-    current.forEach((item,index)=>{
-
-        document.getElementById('title'+index).innerText =
-            item.title;
-
-        document.getElementById('img'+index).style.backgroundImage =
-            item.image
-            ? `url('${item.image}')`
-            : 'linear-gradient(135deg,#444,#222)';
-
-    });
-
-    page++;
-
-    if(page * 6 >= allNews.length){
-        page = 0;
-    }
-}
 
 async function loadFeed(){
 
     try{
 
-        const response = await fetch(feedUrl);
+        const response = await fetch(FEED);
+        const data = await response.json();
 
-        const xmlText = await response.text();
+        news = data.items || [];
 
-        const parser = new DOMParser();
+        updateView();
 
-        const xml = parser.parseFromString(
-            xmlText,
-            "text/xml"
-        );
+        document.getElementById("ticker").innerHTML =
+            news.map(n => n.title).join(" ● ");
 
-        const items =
-            xml.querySelectorAll("item");
+    }
+    catch(error){
 
-        allNews = [];
+        document.getElementById("title0").innerText =
+        "Feed aktuell nicht verfügbar";
 
-        items.forEach(item => {
+        console.log(error);
 
-            const title =
-                item.querySelector("title")?.textContent || "";
+    }
 
-            const description =
-                item.querySelector("description")?.textContent || "";
+}
 
-            allNews.push({
+function updateView(){
 
-                title:title,
+    if(news.length === 0){
+        return;
+    }
 
-                image:extractImage(description)
+    const start = page * 6;
 
-            });
+    const current =
+        news.slice(start,start+6);
 
-        });
+    current.forEach((item,index)=>{
 
-        document.getElementById("ticker
+        document.getElementById("title"+index)
+        .innerText = item.title;
+
+        const image =
+            item.thumbnail ||
+            "";
+
+        document.getElementById("img"+index)
+        .style.backgroundImage =
+            `url('${image}')`;
+
+    });
+
+    page++;
+
+    if(page * 6 >= news.length){
+        page = 0;
+    }
+
+}
+
+loadFeed();
+
+setInterval(loadFeed,300000);
+setInterval(updateView,30000);
+
+</script>
+
+</body>
+</html>
