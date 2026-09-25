@@ -14,21 +14,20 @@
 }
 
 body{
-    font-family:Arial, sans-serif;
     background:#111;
     color:white;
-    height:100vh;
+    font-family:Arial, sans-serif;
     overflow:hidden;
 }
 
 .header{
-    height:70px;
-    background:#d60000;
+    height:60px;
+    background:#d50000;
     display:flex;
-    justify-content:space-between;
     align-items:center;
-    padding:0 30px;
-    font-size:24px;
+    justify-content:space-between;
+    padding:0 20px;
+    font-size:20px;
     font-weight:bold;
 }
 
@@ -37,46 +36,50 @@ body{
 }
 
 .grid{
-    height:calc(100vh - 120px);
-    padding:10px;
+    height:calc(100vh - 100px);
     display:grid;
-    grid-template-columns:1fr 1fr;
-    grid-template-rows:1fr 1fr;
-    gap:10px;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows:repeat(2,1fr);
+    gap:6px;
+    padding:6px;
 }
 
 .card{
-    background:#1a1a1a;
-    border-radius:8px;
+    background:#1b1b1b;
     overflow:hidden;
+    border-radius:4px;
     display:flex;
     flex-direction:column;
-    box-shadow:0 0 10px rgba(0,0,0,.4);
 }
 
 .image{
-    height:70%;
+    flex:1;
     background-size:cover;
     background-position:center;
+    min-height:0;
 }
 
 .title{
-    padding:15px;
-    font-size:1.5vw;
-    line-height:1.35;
+    background:#111;
+    padding:10px;
+    font-size:1.1vw;
     font-weight:bold;
+    line-height:1.3;
 
     display:-webkit-box;
-    -webkit-line-clamp:3;
+    -webkit-line-clamp:2;
     -webkit-box-orient:vertical;
     overflow:hidden;
+
+    min-height:72px;
 }
 
 .footer{
-    height:50px;
+    height:40px;
     background:black;
     overflow:hidden;
     white-space:nowrap;
+
     display:flex;
     align-items:center;
 }
@@ -84,13 +87,17 @@ body{
 .ticker{
     display:inline-block;
     padding-left:100%;
-    animation:ticker 90s linear infinite;
-    font-size:20px;
+    animation:ticker 80s linear infinite;
+    font-size:18px;
 }
 
 @keyframes ticker{
-    from {transform:translateX(0);}
-    to {transform:translateX(-100%);}
+    from{
+        transform:translateX(0);
+    }
+    to{
+        transform:translateX(-100%);
+    }
 }
 
 </style>
@@ -103,89 +110,7 @@ body{
     <div id="clock"></div>
 </div>
 
-<div class="grid">
-
-    <div class="card">
-        <div class="image" id="img0"></div>
-        <div class="title" id="title0">Lade News...</div>
-    </div>
-
-    <div class="card">
-        <div class="image" id="img1"></div>
-        <div class="title" id="title1"></div>
-    </div>
-
-    <div class="card">
-        <div class="image" id="img2"></div>
-        <div class="title" id="title2"></div>
-    </div>
-
-    <div class="card">
-        <div class="image" id="img3"></div>
-        <div class="title" id="title3"></div>
-    </div>
-
-</div>
+<div class="grid" id="grid"></div>
 
 <div class="footer">
-    <div class="ticker" id="ticker"></div>
-</div>
-
-<script>
-
-const feedUrl =
-'https://api.rss2json.com/v1/api.json?rss_url=https://www.srf.ch/sport/bnf/rss/718';
-
-async function loadNews(){
-
-    try{
-
-        const response = await fetch(feedUrl);
-        const data = await response.json();
-
-        const items = data.items.slice(0,4);
-
-        items.forEach((item,index)=>{
-
-            document.getElementById('title'+index).innerText =
-                item.title;
-
-            if(item.thumbnail){
-                document.getElementById('img'+index)
-                    .style.backgroundImage =
-                    `url('${item.thumbnail}')`;
-            }
-
-        });
-
-        document.getElementById("ticker").innerHTML =
-            data.items.map(x=>"⚽ "+x.title).join(" &nbsp;&nbsp;&nbsp; ● &nbsp;&nbsp;&nbsp; ");
-
-    }
-    catch(error){
-        console.log(error);
-    }
-}
-
-function updateClock(){
-
-    document.getElementById("clock").innerText =
-        new Date().toLocaleTimeString(
-            "de-CH",
-            {
-                hour:"2-digit",
-                minute:"2-digit"
-            }
-        );
-}
-
-setInterval(updateClock,1000);
-setInterval(loadNews,300000);
-
-updateClock();
-loadNews();
-
-</script>
-
-</body>
-</html>
+    <div class="ticker" id="ticker
