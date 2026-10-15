@@ -48,10 +48,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/86f6fb.webp"
   },
   {
-    "title": "News aus der NHL & MLS – Shootout-Sieg für Bichsels Dallas – Messi mit Miami in Playoffs",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c0a136.webp"
-  },
-  {
     "title": "Champions League am Mittwoch – Vom 1:3 zum 4:3 in 7 Minuten: Real schafft irre Wende in Rom",
     "image": "https://www.srf.ch/static/cms/images//320ws/57e5e0.webp"
   },
@@ -232,6 +228,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/fdc574.webp"
   },
   {
+    "title": "News aus der NHL & MLS – Shootout-Sieg für Bichsels Dallas – Messi mit Miami in Playoffs",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c0a136.webp"
+  },
+  {
     "title": "Handball: Champions League – Überragender Jerome Müller führt Kriens-Luzern zum 2. Sieg",
     "image": "https://www.srf.ch/static/cms/images//320ws/cd80c4.webp"
   },
@@ -250,9 +250,5 @@
   {
     "title": "Weitere Sport-News – Fuchs springt aufs Podest – Clayton siegt bei Swiss Darts Trophy",
     "image": "https://www.srf.ch/static/cms/images//320ws/02fd40.webp"
-  },
-  {
-    "title": "Ironman-WM auf Hawaii – Derron wird bei ihrer Hawaii-Premiere Dritte",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8573b0.webp"
   }
 ]
