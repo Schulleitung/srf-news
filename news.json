@@ -1,19 +1,11 @@
 [
   {
-    "title": "Am 2. Spieltag der Ligaphase – 78 Treffer: Champions League bricht Torrekord",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1639e8.webp"
-  },
-  {
-    "title": "Unübliches in Europa League – Selbst schon erlebt: Sunderland muss bei einem Zweitligisten ran",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5ead4e.webp"
+    "title": "Vor Duell in Conference League – Aufgepasst Thun: Twente kann auch Abreibung",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d484a4.webp"
   },
   {
     "title": "Auftakt zur Conference League – Lugano: Endlich eine europäische Gruppenphase zu Hause",
     "image": "https://www.srf.ch/static/cms/images//320ws/46645d.webp"
-  },
-  {
-    "title": "Vor Duell in Conference League – Aufgepasst Thun: Twente kann auch Abreibung",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d484a4.webp"
   },
   {
     "title": "Start in die Conference League – Dänisches Powerhaus, andorranisches Debüt und ein langer Isländer",
@@ -22,6 +14,14 @@
   {
     "title": "Auftakt zur Conference League – Lugano und Thun: Europa-Abenteuer mit verschiedenen Vorzeichen",
     "image": "https://www.srf.ch/static/cms/images//320ws/9e8a85.webp"
+  },
+  {
+    "title": "Unübliches in Europa League – Selbst schon erlebt: Sunderland muss bei einem Zweitligisten ran",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5ead4e.webp"
+  },
+  {
+    "title": "Am 2. Spieltag der Ligaphase – 78 Treffer: Champions League bricht Torrekord",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1639e8.webp"
   },
   {
     "title": "News aus der NHL & MLS – Shootout-Sieg für Bichsels Dallas – Messi mit Miami in Playoffs",
@@ -56,6 +56,14 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/dfd2bfa.webp"
   },
   {
+    "title": "Sonntag um 18 Uhr auf SRF zwei – Kurz vor dem Saisonstart: «Sportpanorama» mit Loïc Meillard",
+    "image": "https://www.srf.ch/static/cms/images//320ws/261f8d.webp"
+  },
+  {
+    "title": "Seien Sie live zu Gast im «Sportpanorama – Anmeldung für einen Besuch im Studio",
+    "image": "https://www.srf.ch/static/cms/images//320ws/7a0604.webp"
+  },
+  {
     "title": "Rachel Rinasts Fazit zur Nati – Pflicht erfüllt, Beney gehört nach vorne, Österreich wird schwer",
     "image": "https://www.srf.ch/static/cms/images//320ws/a8d057.webp"
   },
@@ -68,8 +76,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/af1c53.webp"
   },
   {
-    "title": "Nach sieben Jahren – Yann Sommer gibt Trennung von Ehefrau Alina bekannt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/df6fe0.webp"
+    "title": "«Podcast am Pistenrand» – Ein sehr tiefer Höhepunkt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
+  },
+  {
+    "title": "Fussball-Podcast Sykora Gisler – «Miteme Spitzgagu eine inepfäzgere!»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/555ab4.webp"
   },
   {
     "title": "Internationale Fussball-News – Haareziehen hat Konsequenzen: Reals Vinicius 4 Spiele gesperrt",
@@ -80,32 +92,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/a38364.webp"
   },
   {
-    "title": "«Podcast am Pistenrand» – Ein sehr tiefer Höhepunkt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
-  },
-  {
-    "title": "Fussball-Podcast Sykora Gisler – «Miteme Spitzgagu eine inepfäzgere!»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/555ab4.webp"
-  },
-  {
-    "title": "WTA-Turnier in Wuhan – Nach Bagel im Startsatz: Bencic scheitert erneut früh",
-    "image": "https://www.srf.ch/static/cms/images//320ws/2bfa43.webp"
-  },
-  {
-    "title": "News aus der Leichtathletik – Final der Diamond League 2027 wieder in Zürich",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0cb8f1.webp"
-  },
-  {
-    "title": "News aus der National League – Davos verstärkt sich mit einem Kanadier",
-    "image": "https://www.srf.ch/static/cms/images//320ws/cba5da.webp"
-  },
-  {
-    "title": "WM-Quali-Playoffs: SUI – ISR – Sieg ohne Gegentor: Schweizerinnen erfüllen die Pflicht",
-    "image": "https://www.srf.ch/static/cms/images//320ws/067e0b.webp"
-  },
-  {
-    "title": "Stimmen zu Schweiz – Israel – Einstimmiger Tenor: «Endlich zu null gespielt»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b6c9f5.webp"
+    "title": "Nach sieben Jahren – Yann Sommer gibt Trennung von Ehefrau Alina bekannt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/df6fe0.webp"
   },
   {
     "title": "Überraschung im San Siro – 4:3-Spektakel: Sommer jubelt auch dank Patzer seines Nachfolgers",
@@ -120,16 +108,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/ec99972.webp"
   },
   {
-    "title": "Trainieren, studieren, ackern – «Irgendwie musste ich mein Leben finanzieren»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/7fc596.webp"
-  },
-  {
     "title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
     "image": "https://www.srf.ch/static/cms/images//320ws/cd688f.webp"
   },
   {
     "title": "Champions League live bei SRF – Zum Haareraufen: Mourinhos Rückkehr nach Rom",
     "image": "https://www.srf.ch/static/cms/images//320ws/5604d1.webp"
+  },
+  {
+    "title": "Stimmen zu Schweiz – Israel – Einstimmiger Tenor: «Endlich zu null gespielt»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b6c9f5.webp"
+  },
+  {
+    "title": "WM-Quali-Playoffs: SUI – ISR – Sieg ohne Gegentor: Schweizerinnen erfüllen die Pflicht",
+    "image": "https://www.srf.ch/static/cms/images//320ws/067e0b.webp"
   },
   {
     "title": "Internationale Fussball-News – Dortmund verlängert mit Kovac – Carvajal findet neuen Klub",
@@ -144,12 +136,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/427181b.webp"
   },
   {
-    "title": "Internationale Fussball-News – Wenige Tage nach Brandrede: Fink in der Türkei entlassen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/16a0cc.webp"
-  },
-  {
-    "title": "WM-Playoffs: Schweiz – Israel – Die Devise für das Rückspiel ist klar: Hinten die Null halten",
-    "image": "https://www.srf.ch/static/cms/images//320ws/35d2c2.webp"
+    "title": "News aus der National League – Davos verstärkt sich mit einem Kanadier",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cba5da.webp"
   },
   {
     "title": "«Frozen Frenzy» in der NHL – Suter Doppeltorschütze bei Kantersieg – Devils siegen wieder",
@@ -172,8 +160,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/e496f1.webp"
   },
   {
-    "title": "National League am Sonntag – Zug schlägt Kloten, bangt aber um Bengtsson",
-    "image": "https://www.srf.ch/static/cms/images//320ws/81707e.webp"
+    "title": "WTA-Turnier in Wuhan – Nach Bagel im Startsatz: Bencic scheitert erneut früh",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2bfa43.webp"
   },
   {
     "title": "ATP-1000-Turnier in Schanghai – Entfesselter Bergs nimmt Alcaraz in der 3. Runde aus dem Turnier",
@@ -194,10 +182,6 @@
   {
     "title": "Ein gut gehütetes Geheimnis – Djokovic meldet sich zurück – doch was ist mit seiner Gesundheit?",
     "image": "https://www.srf.ch/static/cms/images//320ws/9a70ff.webp"
-  },
-  {
-    "title": "Qualifikation fürs Hauptfeld – Tomic sendet in Schanghai ein Lebenszeichen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a03f63.webp"
   },
   {
     "title": "Zwei Wochen vor Saisonstart – Trotz Schneemangel: Keine Panik bei Swiss-Ski",
@@ -224,6 +208,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/136552c.webp"
   },
   {
+    "title": "News aus der Leichtathletik – Final der Diamond League 2027 wieder in Zürich",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0cb8f1.webp"
+  },
+  {
     "title": "Schweizer Doppelsieg – Hug in Chicago nicht zu schlagen – Debrunner mit Weltrekord",
     "image": "https://www.srf.ch/static/cms/images//320ws/f830a2.webp"
   },
@@ -242,10 +230,6 @@
   {
     "title": "Beste Mehrkämpfer der Saison – Ehammer und Kälin sorgen für Schweizer Doppelsieg",
     "image": "https://www.srf.ch/static/cms/images//320ws/6940ff.webp"
-  },
-  {
-    "title": "Geherin muss ihr Gold abgeben – Auf zu dicken Sohlen unterwegs",
-    "image": "https://www.srf.ch/static/cms/images//320ws/33ba9c.webp"
   },
   {
     "title": "Ein Jahr nach Horror-Crash – Dettwiler zurück im Rennmodus: «Es hat sich gut angefühlt»",
