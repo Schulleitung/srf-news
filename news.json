@@ -1,5 +1,53 @@
 [
   {
+    "title": "Champions League am Mittwoch – Vom 1:3 zum 4:3 in 7 Minuten: Real schafft irre Wende in Rom",
+    "image": "https://www.srf.ch/static/cms/images//320ws/57e5e0.webp"
+  },
+  {
+    "title": "Champions League: 2. Spieltag – Nach Startfurioso: PSG gewinnt Gigantenduell gegen ManCity",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8ee2f7.webp"
+  },
+  {
+    "title": "Champions League: Round-Up – An Geburtstag: Torpremiere für Manzambi in der «Königsklasse»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0e14b6.webp"
+  },
+  {
+    "title": "News aus der NHL & MLS – Shootout-Sieg für Bichsels Dallas – Messi mit Miami in Playoffs",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c0a136.webp"
+  },
+  {
+    "title": "Handball: Champions League – Überragender Jerome Müller führt Kriens-Luzern zum 2. Sieg",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cd80c4.webp"
+  },
+  {
+    "title": "Champions Hockey League – Davos trotz Niederlage weiter – Schweizer Duell im Achtelfinal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5150f6.webp"
+  },
+  {
+    "title": "Ein NL-Spiel am Mittwoch – Lausanne gewinnt torreiches Spiel gegen Ajoie",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a348c4.webp"
+  },
+  {
+    "title": "Auftakt zur Conference League – Lugano: Endlich eine europäische Gruppenphase zu Hause",
+    "image": "https://www.srf.ch/static/cms/images//320ws/46645d.webp"
+  },
+  {
+    "title": "Vor Duell in Conference League – Aufgepasst Thun: Twente kann auch Abreibung",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d484a4.webp"
+  },
+  {
+    "title": "Auftakt zur Conference League – Lugano und Thun: Europa-Abenteuer mit verschiedenen Vorzeichen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9e8a85.webp"
+  },
+  {
+    "title": "Ski: Saisonauftakt rückt näher – Noch herrscht Lockerheit, doch schon bald kribbelts",
+    "image": "https://www.srf.ch/static/cms/images//320ws/dfd2bfa.webp"
+  },
+  {
+    "title": "Bahnrad-WM in Schanghai – Seitz im Scratch chancenlos – Enttäuschung in der Teamverfolgung",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c222e21.webp"
+  },
+  {
     "title": "Rachel Rinasts Fazit zur Nati – Pflicht erfüllt, Beney gehört nach vorne, Österreich wird schwer",
     "image": "https://www.srf.ch/static/cms/images//320ws/a8d057.webp"
   },
@@ -12,16 +60,24 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/af1c53.webp"
   },
   {
-    "title": "Champions League live bei SRF – Zum Haareraufen: Mourinhos Rückkehr nach Rom",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5604d1.webp"
+    "title": "Nach sieben Jahren – Yann Sommer gibt Trennung von Ehefrau Alina bekannt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/df6fe0.webp"
   },
   {
-    "title": "Auftakt zur Conference League – Lugano und Thun: Europa-Abenteuer mit verschiedenen Vorzeichen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9e8a85.webp"
+    "title": "Internationale Fussball-News – Haareziehen hat Konsequenzen: Reals Vinicius 4 Spiele gesperrt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/da1ed5.webp"
   },
   {
-    "title": "Bahnrad-WM in Schanghai – Seitz im Scratch chancenlos – Enttäuschung in der Teamverfolgung",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c222e21.webp"
+    "title": "Vereine «technisch insolvent» – Alarmierende Zahlen in Englands Fussball",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a38364.webp"
+  },
+  {
+    "title": "«Podcast am Pistenrand» – Ein sehr tiefer Höhepunkt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
+  },
+  {
+    "title": "Fussball-Podcast Sykora Gisler – «Miteme Spitzgagu eine inepfäzgere!»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/555ab4.webp"
   },
   {
     "title": "WTA-Turnier in Wuhan – Nach Bagel im Startsatz: Bencic scheitert erneut früh",
@@ -36,32 +92,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/cba5da.webp"
   },
   {
-    "title": "Vereine «technisch insolvent» – Alarmierende Zahlen in Englands Fussball",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a38364.webp"
-  },
-  {
     "title": "WM-Quali-Playoffs: SUI – ISR – Sieg ohne Gegentor: Schweizerinnen erfüllen die Pflicht",
     "image": "https://www.srf.ch/static/cms/images//320ws/067e0b.webp"
   },
   {
     "title": "Stimmen zu Schweiz – Israel – Einstimmiger Tenor: «Endlich zu null gespielt»",
     "image": "https://www.srf.ch/static/cms/images//320ws/b6c9f5.webp"
-  },
-  {
-    "title": "Phonak-Skandal vor 20 Jahren – Rihs' Tour-Traum – und Landis' gedopter Gewaltsritt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ff5714.webp"
-  },
-  {
-    "title": "«Frozen Frenzy» in der NHL – Suter Doppeltorschütze bei Kantersieg – Devils siegen wieder",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0baef9.webp"
-  },
-  {
-    "title": "«Podcast am Pistenrand» – Ein sehr tiefer Höhepunkt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
-  },
-  {
-    "title": "Fussball-Podcast Sykora Gisler – «Miteme Spitzgagu eine inepfäzgere!»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/555ab4.webp"
   },
   {
     "title": "Überraschung im San Siro – 4:3-Spektakel: Sommer jubelt auch dank Patzer seines Nachfolgers",
@@ -80,28 +116,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/7fc596.webp"
   },
   {
-    "title": "Kurz vor der WM in Rotterdam – Russische Turnerinnen erhalten keine Visa für die Niederlande",
-    "image": "https://www.srf.ch/static/cms/images//320ws/70403b.webp"
+    "title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cd688f.webp"
   },
   {
-    "title": "Goalie-Duo vor USA-Abenteuer – Maurer und Brändli: Eine darf spielen, die andere nur trainieren",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9a5e85.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Kadetten mit 3. Sieg im 3. Spiel – Leone & Jäggi verpassen Podest",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9981fe.webp"
+    "title": "Champions League live bei SRF – Zum Haareraufen: Mourinhos Rückkehr nach Rom",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5604d1.webp"
   },
   {
     "title": "Internationale Fussball-News – Dortmund verlängert mit Kovac – Carvajal findet neuen Klub",
     "image": "https://www.srf.ch/static/cms/images//320ws/091546.webp"
-  },
-  {
-    "title": "News aus dem Radsport – Ganna wechselt von Ineos zu Lidl-Trek",
-    "image": "https://www.srf.ch/static/cms/images//320ws/245f58.webp"
-  },
-  {
-    "title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/cd688f.webp"
   },
   {
     "title": "Nun Gegner in Champions League – «Niemand» kannte ihn: Wie Kane einst fast in Stavanger landete",
@@ -120,12 +144,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/35d2c2.webp"
   },
   {
-    "title": "Lausanne-Sport im Tief – Viele Verletzte, kein Diakité-Ersatz – und Elsners Zukunft?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/58b9f89.webp"
+    "title": "«Frozen Frenzy» in der NHL – Suter Doppeltorschütze bei Kantersieg – Devils siegen wieder",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0baef9.webp"
   },
   {
-    "title": "FCB-Trainer nach Debüt pikiert – Jokanovic: «Unser Level reicht nicht für diese Liga»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/03bf0e.webp"
+    "title": "Goalie-Duo vor USA-Abenteuer – Maurer und Brändli: Eine darf spielen, die andere nur trainieren",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9a5e85.webp"
   },
   {
     "title": "NHL in der Nacht auf Dienstag – Nächste Enttäuschung für die Devils",
@@ -142,14 +166,6 @@
   {
     "title": "National League am Sonntag – Zug schlägt Kloten, bangt aber um Bengtsson",
     "image": "https://www.srf.ch/static/cms/images//320ws/81707e.webp"
-  },
-  {
-    "title": "News aus der National League – Servette reagiert mit Boqvist-Verpflichtung auf Verletzungsmisere",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6785a2.webp"
-  },
-  {
-    "title": "3-Tore-Rückstand getilgt – Jetzt auch Ajoie: Es ist die Saison der grossen Comebacks",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e312fe.webp"
   },
   {
     "title": "ATP-1000-Turnier in Schanghai – Entfesselter Bergs nimmt Alcaraz in der 3. Runde aus dem Turnier",
@@ -248,6 +264,14 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/fdc574.webp"
   },
   {
+    "title": "Kurz vor der WM in Rotterdam – Russische Turnerinnen erhalten keine Visa für die Niederlande",
+    "image": "https://www.srf.ch/static/cms/images//320ws/70403b.webp"
+  },
+  {
+    "title": "Weitere Sport-News – Kadetten mit 3. Sieg im 3. Spiel – Leone & Jäggi verpassen Podest",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9981fe.webp"
+  },
+  {
     "title": "Kalender noch nicht publik – Im Beachvolleyball sind Flexibilität und Geduld gefragt",
     "image": "https://www.srf.ch/static/cms/images//320ws/ef3371.webp"
   },
@@ -262,13 +286,5 @@
   {
     "title": "Swiss Darts Trophy – Stimmungskiller Ratajski lässt Bellmont keine Chance",
     "image": "https://www.srf.ch/static/cms/images//320ws/83e6de.webp"
-  },
-  {
-    "title": "Swiss Darts Trophy – Einzig Bellmont sorgt in Basel für Schweizer Jubel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d542fac.webp"
-  },
-  {
-    "title": "Franzose für Schweizerinnen – Stéphane Leite übernimmt Frauen-Nationalteam im Basketball",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6e0c7db.webp"
   }
 ]
