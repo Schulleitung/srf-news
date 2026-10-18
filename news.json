@@ -1,9 +1,5 @@
 [
   {
-    "title": "Bahnrad-WM in Schanghai – Schweizerinnen mit Top-10-Plätzen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/7f22f5.webp"
-  },
-  {
     "title": "National League am Samstag – Freiburg mit Spektakel-Wende – Kloten blamiert sich in Überzahl",
     "image": "https://www.srf.ch/static/cms/images//320ws/829bc6.webp"
   },
@@ -22,6 +18,10 @@
   {
     "title": "Schweizer Cup total bei SRF – Alle Spiele mit Super-League-Beteiligung live",
     "image": "https://www.srf.ch/static/cms/images//320ws/86299ac.webp"
+  },
+  {
+    "title": "News aus dem Tennis – Zwei Absagen an den Swiss Indoors – Zverev verpasst Final",
+    "image": "https://www.srf.ch/static/cms/images//320ws/edaa0c.webp"
   },
   {
     "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
@@ -62,14 +62,6 @@
   {
     "title": "Weitere Sport-News – Starke Schweizer Schützen – Sieg für Triathlet Studer",
     "image": "https://www.srf.ch/static/cms/images//320ws/1257fc9.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Davidovich Fokina wirft Zverev raus – Fonseca fehlt in Basel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/582b27.webp"
-  },
-  {
-    "title": "Rückkehr nach 15 Jahren – Djokovic beehrt die Swiss Indoors",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1fd142.webp"
   },
   {
     "title": "Kunstturn-WM in Rotterdam – Die erste WM nach der neuen Schweizer Zeitrechnung",
@@ -140,6 +132,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/ddb8789.webp"
   },
   {
+    "title": "Rückkehr nach 15 Jahren – Djokovic beehrt die Swiss Indoors",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1fd142.webp"
+  },
+  {
     "title": "Djokovic vorerst raus – Jodar stösst auf einen Platz für die ATP Finals vor",
     "image": "https://www.srf.ch/static/cms/images//320ws/f15a89.webp"
   },
@@ -158,10 +154,6 @@
   {
     "title": "ATP-1000-Turnier in Schanghai – Peking-Sieger Djokovic bleibt frühestmöglich hängen",
     "image": "https://www.srf.ch/static/cms/images//320ws/85c2de.webp"
-  },
-  {
-    "title": "News aus dem Tennis – «1 Point Slam»: Alcaraz und Co. bei Show am Start",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9d69fd.webp"
   },
   {
     "title": "Ski-WM 2027 in Crans-Montana – Co-Präsidium: Nachfolge von Schmidhalter geregelt",
