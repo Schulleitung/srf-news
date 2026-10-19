@@ -16,6 +16,14 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c4f13e.webp"
   },
   {
+    "title": "Schweizer Curler in Frühform – Team Schwaller gewinnt Grand-Slam-Auftakt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ef62fa.webp"
+  },
+  {
+    "title": "News aus dem Tennis – Golubic übersteht in Osaka die Startrunde",
+    "image": "https://www.srf.ch/static/cms/images//320ws/faffbf.webp"
+  },
+  {
     "title": "Kunstturn-WM in Rotterdam – Seifert erreicht Barren- und Mehrkampffinal – Männer im Teamfinal",
     "image": "https://www.srf.ch/static/cms/images//320ws/0583547.webp"
   },
@@ -52,20 +60,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c1f6da.webp"
   },
   {
-    "title": "News aus dem Tennis – Davidovich Fokina siegt in Schanghai – Brunold holt Titel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/09f7af4.webp"
-  },
-  {
     "title": "Motorsport-News – Langstrecken-WM: Buemi gewinnt in Barcelona",
     "image": "https://www.srf.ch/static/cms/images//320ws/6eb825.webp"
   },
   {
     "title": "Weitere Sport-News – Schützin Bertschi mit Sieg an WM – Unihockeyaner gewinnen",
     "image": "https://www.srf.ch/static/cms/images//320ws/34c1b6.webp"
-  },
-  {
-    "title": "Boxer verteidigt WM-Titel – Dubois erteilt Wardley eine Lehrstunde",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6e2ec2.webp"
   },
   {
     "title": "Bahnrad-WM in Schanghai – Schweizer Duo im Madison chancenlos",
@@ -152,6 +152,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/e04e8f.webp"
   },
   {
+    "title": "News aus dem Tennis – Davidovich Fokina siegt in Schanghai – Brunold holt Titel",
+    "image": "https://www.srf.ch/static/cms/images//320ws/09f7af4.webp"
+  },
+  {
     "title": "News aus dem Tennis – Zverev verpasst Final in Schanghai",
     "image": "https://www.srf.ch/static/cms/images//320ws/a6ac0c2.webp"
   },
@@ -170,10 +174,6 @@
   {
     "title": "ATP-1000-Turnier in Schanghai – Entfesselter Bergs nimmt Alcaraz in der 3. Runde aus dem Turnier",
     "image": "https://www.srf.ch/static/cms/images//320ws/fb396c.webp"
-  },
-  {
-    "title": "Durchzogene 2. Jahreshälfte – Bencic kämpft in Asien um ihren Status als Top-20-Spielerin",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d8135af.webp"
   },
   {
     "title": "News aus dem Skisport – Saisonauftakt in Sölden ohne Hirscher",
@@ -248,6 +248,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/13e14d.webp"
   },
   {
+    "title": "Boxer verteidigt WM-Titel – Dubois erteilt Wardley eine Lehrstunde",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6e2ec2.webp"
+  },
+  {
     "title": "Weitere Sport-News – Starke Schweizer Schützen – Sieg für Triathlet Studer",
     "image": "https://www.srf.ch/static/cms/images//320ws/1257fc9.webp"
   },
@@ -266,9 +270,5 @@
   {
     "title": "Kunstturn-WM in Rotterdam – Die erste WM nach der neuen Schweizer Zeitrechnung",
     "image": "https://www.srf.ch/static/cms/images//320ws/94d264.webp"
-  },
-  {
-    "title": "News aus den US Sports – 44-jähriges Warten zu Ende: Milwaukee Brewers im MLB-Final",
-    "image": "https://www.srf.ch/static/cms/images//320ws/3553fc.webp"
   }
 ]
