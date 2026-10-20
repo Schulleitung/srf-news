@@ -1,7 +1,23 @@
 [
   {
+    "title": "«Podcast am Pistenrand» – Als Präsi gespeichert",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
+  },
+  {
+    "title": "News aus dem Skisport – In Trainerfunktion: Svindal heuert beim norwegischen Verband an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/237168.webp"
+  },
+  {
     "title": "St. Louis fordert Columbus – Bürki winkt der Cupsieg: «Wäre sehr speziell»",
     "image": "https://www.srf.ch/static/cms/images//320ws/da94a1.webp"
+  },
+  {
+    "title": "BVB erwartet Hexenkessel – Von 1000 auf 55'000: CL sorgt bei Sabah für einen Zuschauerboom",
+    "image": "https://www.srf.ch/static/cms/images//320ws/58e657.webp"
+  },
+  {
+    "title": "CL-Kracher PSG – Barcelona – Der neue König gastiert im Prinzenpark",
+    "image": "https://www.srf.ch/static/cms/images//320ws/96c455.webp"
   },
   {
     "title": "News aus dem Tennis – Bencic meistert Startaufgabe – WTA Finals wohl ohne Swiatek",
@@ -12,11 +28,11 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/97549d7.webp"
   },
   {
-    "title": "Internationale Fussball-News – Sperren für Ägypter 3 Monate nach WM-Aus",
+    "title": "Internationale Fussball-News – Sperren für Ägypter nach WM-Aus – Yalcin neuer Türkei-Trainer",
     "image": "https://www.srf.ch/static/cms/images//320ws/6748112.webp"
   },
   {
-    "title": "News aus der Super League – Ex-Sportchef Albrecht kehrt zu Thun zurück",
+    "title": "News aus der Super League – Albrecht kehrt zu Thun zurück – WSL-Zuschauerzahlen steigen",
     "image": "https://www.srf.ch/static/cms/images//320ws/20572e.webp"
   },
   {
@@ -30,14 +46,6 @@
   {
     "title": "Fussball aus den Topligen – Tottenham kann doch noch siegen",
     "image": "https://www.srf.ch/static/cms/images//320ws/5350c5.webp"
-  },
-  {
-    "title": "BVB erwartet Hexenkessel – Von 1000 auf 55'000: CL sorgt bei Sabah für einen Zuschauerboom",
-    "image": "https://www.srf.ch/static/cms/images//320ws/58e657.webp"
-  },
-  {
-    "title": "CL-Kracher PSG – Barcelona – Der neue König gastiert im Prinzenpark",
-    "image": "https://www.srf.ch/static/cms/images//320ws/96c455.webp"
   },
   {
     "title": "Start in die neue NBA-Saison – Nach spektakulären Wechseln: Werden die Karten neu gemischt?",
@@ -76,10 +84,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/316a89.webp"
   },
   {
-    "title": "News aus dem Skisport – In Trainerfunktion: Svindal heuert beim norwegischen Verband an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/237168.webp"
-  },
-  {
     "title": "Achillessehnenriss im Training – «Brutal»: Ski-Star Kilde hadert mit seinem Verletzungspech",
     "image": "https://www.srf.ch/static/cms/images//320ws/efe49a.webp"
   },
@@ -96,48 +100,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/82dc27.webp"
   },
   {
-    "title": "«Muss ich irgendwann abhaken» – Nach Sturz: Pogacar will 2027 zurück zur Vuelta",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6b47e1.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Zwei weitere WM-Medaillen für die Schweizer Schützen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b6b945.webp"
-  },
-  {
-    "title": "Motorsport-News – Aegerter mit Erfolgsmeldung zum Saisonabschluss",
-    "image": "https://www.srf.ch/static/cms/images//320ws/173e27c.webp"
-  },
-  {
-    "title": "Schweizer Curler in Frühform – Team Schwaller gewinnt Grand-Slam-Auftakt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ef62fa.webp"
-  },
-  {
-    "title": "Stürmer mit langer Leidenszeit – Nach 839 Tagen: «Neuzugang» Conte läuft erstmals für YB auf",
-    "image": "https://www.srf.ch/static/cms/images//320ws/148bfd.webp"
-  },
-  {
-    "title": "Cup: Auslosung Achtelfinals – YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
-    "image": "https://www.srf.ch/static/cms/images//320ws/bd71ee.webp"
-  },
-  {
-    "title": "Schweizer Cup, 2. Runde – Nach viel Drama: Thun bodigt Schaffhausen nach Penaltyschiessen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ef889b.webp"
-  },
-  {
-    "title": "Schweizer Cup, 2. Runde – Afriyie schiesst Ex-Klub ab: FCZ scheitert in Aarau",
-    "image": "https://www.srf.ch/static/cms/images//320ws/25c280.webp"
-  },
-  {
-    "title": "2. Runde im Schweizer Cup – Zweitligist Winkelns Träume platzen jäh – YB und Lugano souverän",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c4f13e.webp"
-  },
-  {
     "title": "Ex-Judo-Star – «Nach solchen Sprüchen gab es für mich nur eine Lösung: Prügeln»",
     "image": "https://www.srf.ch/static/cms/images//320ws/f8b7d99.webp"
-  },
-  {
-    "title": "«Podcast am Pistenrand» – Ein sehr tiefer Höhepunkt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
   },
   {
     "title": "Fussball-Podcast Sykora Gisler – «Miteme Spitzgagu eine inepfäzgere!»",
@@ -156,16 +120,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/42a6b12.webp"
   },
   {
+    "title": "Stürmer mit langer Leidenszeit – Nach 839 Tagen: «Neuzugang» Conte läuft erstmals für YB auf",
+    "image": "https://www.srf.ch/static/cms/images//320ws/148bfd.webp"
+  },
+  {
     "title": "Fussball aus den Topligen – Athekame glänzt als Vorbereiter – Real schlägt Sevilla",
     "image": "https://www.srf.ch/static/cms/images//320ws/878c76.webp"
   },
   {
-    "title": "Bundesliga am Sonntag – 1. Saisonpleite: Freiburg verpasst Rückkehr an die Tabellenspitze",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0b8625.webp"
-  },
-  {
-    "title": "Premier League, 7. Spieltag – Hürzelers Brighton begeistert – Xhaka mit Sunderland in der Krise",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8d7ce1.webp"
+    "title": "Cup: Auslosung Achtelfinals – YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
+    "image": "https://www.srf.ch/static/cms/images//320ws/bd71ee.webp"
   },
   {
     "title": "News aus der National League – Biels Haas mit Gehirnerschütterung out – Douay verlässt LHC",
@@ -264,6 +228,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/6940ff.webp"
   },
   {
+    "title": "Motorsport-News – Aegerter mit Erfolgsmeldung zum Saisonabschluss",
+    "image": "https://www.srf.ch/static/cms/images//320ws/173e27c.webp"
+  },
+  {
     "title": "Motorsport-News – Langstrecken-WM: Buemi gewinnt in Barcelona",
     "image": "https://www.srf.ch/static/cms/images//320ws/6eb825.webp"
   },
@@ -284,8 +252,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4580d2.webp"
   },
   {
-    "title": "Grosser Preis von Indonesien – Bezzecchi feiert 5. Saisonsieg – Martin ist wieder WM-Führender",
-    "image": "https://www.srf.ch/static/cms/images//320ws/24fb07f.webp"
+    "title": "Weitere Sport-News – Zwei weitere WM-Medaillen für die Schweizer Schützen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b6b945.webp"
+  },
+  {
+    "title": "Schweizer Curler in Frühform – Team Schwaller gewinnt Grand-Slam-Auftakt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ef62fa.webp"
   },
   {
     "title": "Kunstturn-WM in Rotterdam – Seifert erreicht Barren- und Mehrkampffinal – Männer im Teamfinal",
@@ -302,13 +274,5 @@
   {
     "title": "Weitere Sport-News – Starke Schweizer Schützen – Sieg für Triathlet Studer",
     "image": "https://www.srf.ch/static/cms/images//320ws/1257fc9.webp"
-  },
-  {
-    "title": "Liga-Cup der Volleyballer – Migge gegen Migge: Der Startschuss zum Bruder-Duell ist gefallen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b3ed7ed.webp"
-  },
-  {
-    "title": "Gemäss Hofbauer auf Kurs – So will die Unihockey-Nati zurück in den elitären Zirkel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/53134a.webp"
   }
 ]
