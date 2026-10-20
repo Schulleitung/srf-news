@@ -1,15 +1,7 @@
 [
   {
-    "title": "Kunstturn-WM in Rotterdam – Freudentränen inklusive: Schweizerinnen mit Top-15-Quali-Ergebnis",
-    "image": "https://www.srf.ch/static/cms/images//320ws/72bf66.webp"
-  },
-  {
-    "title": "Kunstturn-WM: Vor Teamfinal – «Sturzfrei bleiben» als Ziel – die «Big 5» wohl kaum zu schlagen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/316a89.webp"
-  },
-  {
-    "title": "News aus den US Sports – McKenna entscheidet Rohdiamanten-Duell – MLB-Final-Affiche steht",
-    "image": "https://www.srf.ch/static/cms/images//320ws/82dc27.webp"
+    "title": "National League am Dienstag – Revanchegelüste bei vier Partien und viele heisse Fragen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4eeb91.webp"
   },
   {
     "title": "News aus der National League – Biels Haas mit Gehirnerschütterung out – Jalonen hört auf",
@@ -18,6 +10,22 @@
   {
     "title": "National League am Dienstag – Audio-Konferenz: Lions empfangen HCD – Tatzenderby in Bern",
     "image": "https://www.srf.ch/static/cms/images//320ws/721ae3.webp"
+  },
+  {
+    "title": "Kunstturn-WM in Rotterdam – Freudentränen inklusive: Schweizerinnen mit Top-15-Quali-Ergebnis",
+    "image": "https://www.srf.ch/static/cms/images//320ws/72bf66.webp"
+  },
+  {
+    "title": "Kunstturn-WM: Vor Teamfinal – «Sturzfrei bleiben» als Ziel – die «Big 5» wohl kaum zu schlagen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/316a89.webp"
+  },
+  {
+    "title": "World Athletics Night – Werro und Ehammer für Awards nominiert",
+    "image": "https://www.srf.ch/static/cms/images//320ws/38c230.webp"
+  },
+  {
+    "title": "News aus den US Sports – McKenna entscheidet Rohdiamanten-Duell – MLB-Final-Affiche steht",
+    "image": "https://www.srf.ch/static/cms/images//320ws/82dc27.webp"
   },
   {
     "title": "Nach vorzeitiger Abreise – 30 Tage suspendiert und 255-Euro-Busse: «CR7» erhält milde Strafe",
@@ -88,46 +96,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c4f13e.webp"
   },
   {
-    "title": "0 Punkte nach 6 Spielen – Die «Fohlen» im Kriechgang: Gladbachs historischer Fehlstart",
-    "image": "https://www.srf.ch/static/cms/images//320ws/42a6b12.webp"
-  },
-  {
-    "title": "Fussball-Wochenende in Bildern – Stierli sieht Rot und Ende ist am Ende",
-    "image": "https://www.srf.ch/static/cms/images//320ws/423da6.webp"
-  },
-  {
-    "title": "Schweizerinnen im Ausland – Goalie-Duell in der Bundesliga, verschossener Penalty in London",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8ebd70.webp"
-  },
-  {
-    "title": "Fussball aus den Topligen – Athekame glänzt als Vorbereiter – Real schlägt Sevilla",
-    "image": "https://www.srf.ch/static/cms/images//320ws/878c76.webp"
-  },
-  {
-    "title": "Premier League, 7. Spieltag – Hürzelers Brighton begeistert – Xhaka mit Sunderland in der Krise",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8d7ce1.webp"
-  },
-  {
-    "title": "News aus dem Skisport – Speedspezialist Max Franz beendet seine Karriere",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8014b5.webp"
-  },
-  {
-    "title": "News aus dem Radsport – Küng fährt beim Chrono des Nations auf Rang 3",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c1f6da.webp"
-  },
-  {
-    "title": "Motorsport-News – Langstrecken-WM: Buemi gewinnt in Barcelona",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6eb825.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Schützin Bertschi mit Sieg an WM – Unihockeyaner gewinnen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/34c1b6.webp"
-  },
-  {
-    "title": "Bahnrad-WM in Schanghai – Schweizer Duo im Madison chancenlos",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4310af.webp"
-  },
-  {
     "title": "Ex-Judo-Star – «Nach solchen Sprüchen gab es für mich nur eine Lösung: Prügeln»",
     "image": "https://www.srf.ch/static/cms/images//320ws/f8b7d99.webp"
   },
@@ -140,52 +108,40 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/555ab4.webp"
   },
   {
-    "title": "National League am Samstag – Freiburg mit Spektakel-Wende – Kloten blamiert sich in Überzahl",
-    "image": "https://www.srf.ch/static/cms/images//320ws/829bc6.webp"
+    "title": "Schweizerinnen im Ausland – Goalie-Duell in der Bundesliga, verschossener Penalty in London",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8ebd70.webp"
   },
   {
-    "title": "Vorerst bis Ende Saison – Kurashev schliesst sich Lausanne an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/82be4cb.webp"
+    "title": "Fussball-Wochenende in Bildern – Stierli sieht Rot und Ende ist am Ende",
+    "image": "https://www.srf.ch/static/cms/images//320ws/423da6.webp"
   },
   {
-    "title": "Schweizer Cup, 2. Runde – Dorn schiesst den FCL in Winterthur in der 92. Minute ins Glück",
-    "image": "https://www.srf.ch/static/cms/images//320ws/13a04c.webp"
+    "title": "0 Punkte nach 6 Spielen – Die «Fohlen» im Kriechgang: Gladbachs historischer Fehlstart",
+    "image": "https://www.srf.ch/static/cms/images//320ws/42a6b12.webp"
   },
   {
-    "title": "Schweizer Cup, 2. Runde – Erster GC-Sieg unter Janssen bei Abrashi-Jubiläum – Sion mit Mühe",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0b2473.webp"
-  },
-  {
-    "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8549ca.webp"
+    "title": "Fussball aus den Topligen – Athekame glänzt als Vorbereiter – Real schlägt Sevilla",
+    "image": "https://www.srf.ch/static/cms/images//320ws/878c76.webp"
   },
   {
     "title": "Bundesliga am Sonntag – 1. Saisonpleite: Freiburg verpasst Rückkehr an die Tabellenspitze",
     "image": "https://www.srf.ch/static/cms/images//320ws/0b8625.webp"
   },
   {
-    "title": "Schon wieder Real Sociedad – Barcelonas Frauen mit erster Niederlage seit fast einem Jahr",
-    "image": "https://www.srf.ch/static/cms/images//320ws/526a21.webp"
+    "title": "Premier League, 7. Spieltag – Hürzelers Brighton begeistert – Xhaka mit Sunderland in der Krise",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8d7ce1.webp"
   },
   {
-    "title": "Verletzte in Premier League – Kieferoperation bei Martinez – Manzambi: «Es ist okay»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8e9df9.webp"
-  },
-  {
-    "title": "Major League Soccer – Bürki verpasst MLS-Rekord – Messi schlägt Embolo",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b6a5756.webp"
-  },
-  {
-    "title": "Am Sonntag live auf SRF zwei – Aaraus Chance auf Frustbewältigung im Cup-Kracher gegen den FCZ",
-    "image": "https://www.srf.ch/static/cms/images//320ws/addfe8.webp"
-  },
-  {
-    "title": "6. Runde der Bundesliga – Muheim schiesst HSV zum Sieg – Kane trifft im Jubiläumsspiel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/98c064.webp"
+    "title": "National League am Samstag – Freiburg mit Spektakel-Wende – Kloten blamiert sich in Überzahl",
+    "image": "https://www.srf.ch/static/cms/images//320ws/829bc6.webp"
   },
   {
     "title": "NHL in der Nacht auf Sonntag – Erstes Saisontor für Meier – Plus-4-Bilanz für Josi",
     "image": "https://www.srf.ch/static/cms/images//320ws/62a807.webp"
+  },
+  {
+    "title": "Vorerst bis Ende Saison – Kurashev schliesst sich Lausanne an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/82be4cb.webp"
   },
   {
     "title": "Liniger ohne Job-Angst – Kloten-Krise: Wenn nicht einmal ein Meistergoalie hilft",
@@ -198,14 +154,6 @@
   {
     "title": "National League am Freitag – HCD findet in Lugano zum Siegen zurück – Lions weiter makellos",
     "image": "https://www.srf.ch/static/cms/images//320ws/c65277.webp"
-  },
-  {
-    "title": "Nati-Stürmer hat eingeschlagen – Simon Knak, Zürich und der ZSC – das passt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ca7296a.webp"
-  },
-  {
-    "title": "NHL in der Nacht auf Freitag – New Jersey Devils feiern Kantersieg im Derby",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e04e8f.webp"
   },
   {
     "title": "News aus dem Tennis – Davidovich Fokina siegt in Schanghai – Brunold holt Titel",
@@ -232,6 +180,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/fb396c.webp"
   },
   {
+    "title": "News aus dem Skisport – Speedspezialist Max Franz beendet seine Karriere",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8014b5.webp"
+  },
+  {
     "title": "News aus dem Skisport – Saisonauftakt in Sölden ohne Hirscher",
     "image": "https://www.srf.ch/static/cms/images//320ws/b10bc7.webp"
   },
@@ -250,10 +202,6 @@
   {
     "title": "Zwei Wochen vor Saisonstart – Trotz Schneemangel: Keine Panik bei Swiss-Ski",
     "image": "https://www.srf.ch/static/cms/images//320ws/e415643.webp"
-  },
-  {
-    "title": "FIS sucht Nachfolger – Waldner tritt als Renndirektor der Männer zurück",
-    "image": "https://www.srf.ch/static/cms/images//320ws/aff5dc.webp"
   },
   {
     "title": "News aus der Leichtathletik – Final der Diamond League 2027 wieder in Zürich",
@@ -280,6 +228,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/6940ff.webp"
   },
   {
+    "title": "Motorsport-News – Langstrecken-WM: Buemi gewinnt in Barcelona",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6eb825.webp"
+  },
+  {
     "title": "Motorsport-News – Brasilianer Camara übernimmt Ocons Cockpit bei Haas",
     "image": "https://www.srf.ch/static/cms/images//320ws/201195.webp"
   },
@@ -300,12 +252,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/24fb07f.webp"
   },
   {
-    "title": "Fast ein Jahr nach Unfall – Dettwiler feiert sein Renn-Comeback",
-    "image": "https://www.srf.ch/static/cms/images//320ws/13e14d.webp"
-  },
-  {
     "title": "Kunstturn-WM in Rotterdam – Seifert erreicht Barren- und Mehrkampffinal – Männer im Teamfinal",
     "image": "https://www.srf.ch/static/cms/images//320ws/0583547.webp"
+  },
+  {
+    "title": "Weitere Sport-News – Schützin Bertschi mit Sieg an WM – Unihockeyaner gewinnen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/34c1b6.webp"
   },
   {
     "title": "Boxer verteidigt WM-Titel – Dubois erteilt Wardley eine Lehrstunde",
@@ -322,9 +274,5 @@
   {
     "title": "Gemäss Hofbauer auf Kurs – So will die Unihockey-Nati zurück in den elitären Zirkel",
     "image": "https://www.srf.ch/static/cms/images//320ws/53134a.webp"
-  },
-  {
-    "title": "In Teamhotel aufgefunden – Tragischer Tod von südafrikanischem Rugby-Spieler",
-    "image": "https://www.srf.ch/static/cms/images//320ws/51ac2e.webp"
   }
 ]
