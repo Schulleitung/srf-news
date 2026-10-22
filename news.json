@@ -88,10 +88,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4f01da.webp"
   },
   {
-    "title": "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a40320.webp"
-  },
-  {
     "title": "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
     "image": "https://www.srf.ch/static/cms/images//320ws/b49844f.webp"
   },
@@ -276,6 +272,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4580d2.webp"
   },
   {
+    "title": "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a40320.webp"
+  },
+  {
     "title": "NBA: Start in die neue Saison – Pistons mit Spektakel-Comeback – Knicks unterliegen 76ers",
     "image": "https://www.srf.ch/static/cms/images//320ws/743a5a.webp"
   },
@@ -294,9 +294,5 @@
   {
     "title": "Weitere Sport-News – Coastal-Ruderer Raschle scheitert in WM-Achtelfinals",
     "image": "https://www.srf.ch/static/cms/images//320ws/fd04ec.webp"
-  },
-  {
-    "title": "News aus den US Sports – McKenna entscheidet Rohdiamanten-Duell – MLB-Final-Affiche steht",
-    "image": "https://www.srf.ch/static/cms/images//320ws/82dc27.webp"
   }
 ]
