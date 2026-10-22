@@ -4,7 +4,7 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/b849a0.webp"
   },
   {
-    "title": "Europa League: Round-up – Sunderland gerät nun auch in Europa ins Stocken",
+    "title": "Europa League: Round-up – Sunderland in Polen mit Remis – Milan verliert nach Goalie-Rot",
     "image": "https://www.srf.ch/static/cms/images//320ws/dd2394.webp"
   },
   {
@@ -40,6 +40,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/db40c1.webp"
   },
   {
+    "title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a4fb6e.webp"
+  },
+  {
     "title": "Und an der WM gibt's mehr Geld – Erste Klub-WM der Frauen in den USA",
     "image": "https://www.srf.ch/static/cms/images//320ws/88eafa.webp"
   },
@@ -54,10 +58,6 @@
   {
     "title": "Internationale Fussball-News – Serbien vs. Deutschland ohne Fans – Diaz fehlt den Bayern",
     "image": "https://www.srf.ch/static/cms/images//320ws/3ac293e.webp"
-  },
-  {
-    "title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a4fb6e.webp"
   },
   {
     "title": "News aus der Super League – YB-Captain Benito fällt rund einen Monat aus",
@@ -100,32 +100,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4f01da.webp"
   },
   {
-    "title": "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b49844f.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Springreiter-Finale der Global Champions Tour steigt in Verona",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c96cfbc.webp"
-  },
-  {
     "title": "Curling-Trainerin Südkoreas – Tirinzoni über ihr Abenteuer: «Konnte fast nicht ‹Nein› sagen»",
     "image": "https://www.srf.ch/static/cms/images//320ws/75dde7.webp"
-  },
-  {
-    "title": "News aus dem Skisport – In Trainerfunktion: Svindal heuert beim norwegischen Verband an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/237168.webp"
-  },
-  {
-    "title": "Achillessehnenriss im Training – «Brutal»: Ski-Star Kilde hadert mit seinem Verletzungspech",
-    "image": "https://www.srf.ch/static/cms/images//320ws/efe49a.webp"
-  },
-  {
-    "title": "Ski-Ass im «Sportpanorama» – Weihnachten zuhause statt Weltcup: Meillard setzt Prioritäten neu",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9d2e5d.webp"
-  },
-  {
-    "title": "Programmhighlights bei SRF – Wintersportsaison im Zeichen der Ski-WM in Crans-Montana",
-    "image": "https://www.srf.ch/static/cms/images//320ws/19ee73.webp"
   },
   {
     "title": "«Podcast am Pistenrand» – Als Präsi gespeichert",
@@ -216,24 +192,24 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/e6c859.webp"
   },
   {
+    "title": "News aus dem Skisport – In Trainerfunktion: Svindal heuert beim norwegischen Verband an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/237168.webp"
+  },
+  {
+    "title": "Achillessehnenriss im Training – «Brutal»: Ski-Star Kilde hadert mit seinem Verletzungspech",
+    "image": "https://www.srf.ch/static/cms/images//320ws/efe49a.webp"
+  },
+  {
     "title": "News aus dem Skisport – 18-köpfiges Schweizer Team in Sölden – mit Caviezel und Suter",
     "image": "https://www.srf.ch/static/cms/images//320ws/3d2fa9.webp"
   },
   {
-    "title": "News aus dem Skisport – Speedspezialist Max Franz beendet seine Karriere",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8014b5.webp"
+    "title": "Programmhighlights bei SRF – Wintersportsaison im Zeichen der Ski-WM in Crans-Montana",
+    "image": "https://www.srf.ch/static/cms/images//320ws/19ee73.webp"
   },
   {
-    "title": "News aus dem Skisport – Saisonauftakt in Sölden ohne Hirscher",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b10bc7.webp"
-  },
-  {
-    "title": "Ski-WM 2027 in Crans-Montana – Co-Präsidium: Nachfolge von Schmidhalter geregelt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4a3186.webp"
-  },
-  {
-    "title": "Trainingssturz in Chile – Kilde zieht sich Achillessehnenriss zu",
-    "image": "https://www.srf.ch/static/cms/images//320ws/cada93.webp"
+    "title": "Ski-Ass im «Sportpanorama» – Weihnachten zuhause statt Weltcup: Meillard setzt Prioritäten neu",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9d2e5d.webp"
   },
   {
     "title": "World Athletics Night – Werro und Ehammer für Awards nominiert",
@@ -284,8 +260,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4580d2.webp"
   },
   {
+    "title": "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b49844f.webp"
+  },
+  {
     "title": "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
     "image": "https://www.srf.ch/static/cms/images//320ws/a40320.webp"
+  },
+  {
+    "title": "Weitere Sport-News – Springreiter-Finale der Global Champions Tour steigt in Verona",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c96cfbc.webp"
   },
   {
     "title": "NBA: Start in die neue Saison – Pistons mit Spektakel-Comeback – Knicks unterliegen 76ers",
@@ -298,13 +282,5 @@
   {
     "title": "Genfer vor 13. NBA-Saison – Capela: «Alles, was noch kommt, ist Bonus»",
     "image": "https://www.srf.ch/static/cms/images//320ws/e4a9bc0.webp"
-  },
-  {
-    "title": "Start in die neue NBA-Saison – Nach spektakulären Wechseln: Werden die Karten neu gemischt?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c4384e.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Coastal-Ruderer Raschle scheitert in WM-Achtelfinals",
-    "image": "https://www.srf.ch/static/cms/images//320ws/fd04ec.webp"
   }
 ]
