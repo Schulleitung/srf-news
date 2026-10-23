@@ -1,11 +1,11 @@
 [
   {
-    "title": "World Series ab Freitag – Favorisierte Milwaukee Brewers streben Premierentitel an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/fb847b.webp"
+    "title": "Seit 22 Spielen unbesiegt – Wenn's läuft, dann läuft's: Bei Lugano geht aktuell alles auf",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ee946d.webp"
   },
   {
-    "title": "«The Mis» & «Fastball Freddy» – Ein Wunder-Pitcher und ein wundersames Comeback",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ac50f3.webp"
+    "title": "Gemeinsame Kandidatur für 2034 – Weltklasse Zürich und Swiss Athletics wollen EM in der Schweiz",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c70d85.webp"
   },
   {
     "title": "Operation statt Sölden – Vonn gibt neue Einblicke in Reha nach Olympia-Sturz",
@@ -22,6 +22,14 @@
   {
     "title": "Auf den Spuren des Männerteams – Der fast unheimliche Aufstieg der Fribourg-Gottéron Ladies",
     "image": "https://www.srf.ch/static/cms/images//320ws/380362.webp"
+  },
+  {
+    "title": "World Series ab Freitag – Favorisierte Milwaukee Brewers streben Premierentitel an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/fb847b.webp"
+  },
+  {
+    "title": "«The Mis» & «Fastball Freddy» – Ein Wunder-Pitcher und ein wundersames Comeback",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ac50f3.webp"
   },
   {
     "title": "Unebenheiten auf der Strecke – Verstappen schlägt vor GP in Austin Alarm",
@@ -70,18 +78,6 @@
   {
     "title": "Nach 8 Auswärtspartien – Der EVZ ist heiss auf die verspätete Heim-Premiere",
     "image": "https://www.srf.ch/static/cms/images//320ws/eb8093.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Wawrinka scheitert an Cobolli – auch Bencic out",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b59268.webp"
-  },
-  {
-    "title": "«Es war unglaublich emotional» – Fast 3 Jahre nach Horror-Unfall: Michel ist zurück im Eiskanal",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e10342.webp"
-  },
-  {
-    "title": "Grand Départ in Edinburgh – Tour de France 2027: Tourmalet und Grand Colombier als Highlights",
-    "image": "https://www.srf.ch/static/cms/images//320ws/db40c1.webp"
   },
   {
     "title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
@@ -184,6 +180,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4eeb91.webp"
   },
   {
+    "title": "News aus dem Tennis – Wawrinka scheitert an Cobolli – auch Bencic out",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b59268.webp"
+  },
+  {
     "title": "News aus dem Tennis – Wawrinka übersteht 1. Runde in Lyon – Bertola verpasst Premiere",
     "image": "https://www.srf.ch/static/cms/images//320ws/11c5de.webp"
   },
@@ -202,10 +202,6 @@
   {
     "title": "News aus dem Tennis – Davidovich Fokina siegt in Schanghai – Brunold holt Titel",
     "image": "https://www.srf.ch/static/cms/images//320ws/09f7af4.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Zverev verpasst Final in Schanghai",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a6ac0c2.webp"
   },
   {
     "title": "5 Fragen, 5 Antworten – Favoriten und Abwesende: Das müssen Sie vor dem Ski-Winter wissen",
@@ -280,6 +276,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4580d2.webp"
   },
   {
+    "title": "«Es war unglaublich emotional» – Fast 3 Jahre nach Horror-Unfall: Michel ist zurück im Eiskanal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e10342.webp"
+  },
+  {
     "title": "Schweizer in der NBA – George überzeugt bei Auftaktsieg – auch Capela gewinnt",
     "image": "https://www.srf.ch/static/cms/images//320ws/4f01da.webp"
   },
@@ -298,9 +298,5 @@
   {
     "title": "Weitere Sport-News – Springreiter-Finale der Global Champions Tour steigt in Verona",
     "image": "https://www.srf.ch/static/cms/images//320ws/c96cfbc.webp"
-  },
-  {
-    "title": "NBA: Start in die neue Saison – Pistons mit Spektakel-Comeback – Knicks unterliegen 76ers",
-    "image": "https://www.srf.ch/static/cms/images//320ws/743a5a.webp"
   }
 ]
