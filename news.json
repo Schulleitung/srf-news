@@ -1,19 +1,15 @@
 [
   {
-    "title": "Nations League im November – Xhaka und Embolo kehren zum Nationalteam zurück",
-    "image": "https://www.srf.ch/static/cms/images//320ws/596c49.webp"
-  },
-  {
     "title": "Swiss Indoors am Dienstag – Zum richtigen Moment bereit: Kym wirft Rinderknech raus",
     "image": "https://www.srf.ch/static/cms/images//320ws/f2c61f.webp"
   },
   {
-    "title": "Swiss Indoors am Dienstag – Shelton als Vorprogramm zu Wawrinkas möglicher Dernière",
-    "image": "https://www.srf.ch/static/cms/images//320ws/7e2214.webp"
+    "title": "SFV hat entschieden – Xhaka und Embolo kehren zum Nationalteam zurück",
+    "image": "https://www.srf.ch/static/cms/images//320ws/596c49.webp"
   },
   {
-    "title": "Werbeverträge weg – Mbappés Mao-Spruch löst weitreichende Reaktionen aus",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8d044f.webp"
+    "title": "National League am Dienstag – Audio-Konferenz: Final-Reprise und der Klassiker Bern – ZSC",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b6dbce.webp"
   },
   {
     "title": "Diebstahl persönlicher Daten – Schweizer Eishockeyverband wird Opfer eines Cyberangriffs",
@@ -24,16 +20,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/887bf3.webp"
   },
   {
-    "title": "National League am Dienstag – Audio-Konferenz: Final-Reprise und der Klassiker Bern – ZSC",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b6dbce.webp"
+    "title": "«Podcast am Pistenrand» – Tränen im Zielraum",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
   },
   {
-    "title": "Seit August Vollzeit-Schiri – Schnyder: Wie das Profitum seine Leistung verändert",
-    "image": "https://www.srf.ch/static/cms/images//320ws/f8c434.webp"
+    "title": "Werbeverträge weg – Mbappés Mao-Spruch löst weitreichende Reaktionen aus",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8d044f.webp"
   },
   {
     "title": "Langer WM-Zusammenzug – Frauen-Nati will «Nummer 1 in Europa bleiben»",
     "image": "https://www.srf.ch/static/cms/images//320ws/850a95.webp"
+  },
+  {
+    "title": "Seit August Vollzeit-Schiri – Schnyder: Wie das Profitum seine Leistung verändert",
+    "image": "https://www.srf.ch/static/cms/images//320ws/f8c434.webp"
   },
   {
     "title": "Die Stimmen zum Ballon d'Or – Kane ist «sprachlos» – sogar Prinz William gratuliert",
@@ -52,8 +52,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/e5bcc0.webp"
   },
   {
-    "title": "Curling-EM in Ostrava steht an – Neues Turnier-Format: Team Pätz und Team Hösli wollen abliefern",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d6d0ae5.webp"
+    "title": "Abschied von «Stan the Man» – Wie Stan Wawrinka im Schatten der Big Four brillierte",
+    "image": "https://www.srf.ch/static/cms/images//320ws/dcfc09.webp"
   },
   {
     "title": "An Swiss Indoors gefeiert – «Stallone des Tennis»: Grosse Hommage an Stan Wawrinka in Basel",
@@ -84,44 +84,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/3d5fc15.webp"
   },
   {
-    "title": "News aus der Super League – Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1ee247.webp"
-  },
-  {
-    "title": "Auslosung Viertelfinals – GC – YB und Servette – Basel als Schlagerpartien im Frauen-Cup",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d454ff.webp"
-  },
-  {
-    "title": "Fussball aus den Topligen – Heimsieg statt Ballon d'Or: PSG gibt sich keine Blösse",
-    "image": "https://www.srf.ch/static/cms/images//320ws/efc88b3.webp"
-  },
-  {
-    "title": "Samuel Ballet träumt gross – Wie ein Schweizer mit Amed SK die Süper Lig aufmischt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/092b7f4.webp"
-  },
-  {
-    "title": "ManUnited versinkt im Chaos – Carrick vor dem Aus – und dann?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8ad8d2.webp"
-  },
-  {
-    "title": "Schweizerinnen im Ausland – Maritz entdeckt Torriecher – Lehmann rettet Leicester Punkt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/fe3470.webp"
-  },
-  {
-    "title": "Sie erlitt Knieverletzung – Nati-Captain Stalder verpasst Eishockey-WM",
-    "image": "https://www.srf.ch/static/cms/images//320ws/2e1355.webp"
-  },
-  {
-    "title": "News aus der National League – Captain Thürkauf fehlt Lugano lange – Marchon 3 Spiele gesperrt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d99ba2.webp"
-  },
-  {
     "title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
     "image": "https://www.srf.ch/static/cms/images//320ws/a4fb6e.webp"
-  },
-  {
-    "title": "«Podcast am Pistenrand» – Als Präsi gespeichert",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
   },
   {
     "title": "Fussball-Podcast Sykora Gisler – «Miteme Spitzgagu eine inepfäzgere!»",
@@ -132,28 +96,36 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/f8b7d99.webp"
   },
   {
+    "title": "Fussball aus den Topligen – Heimsieg statt Ballon d'Or: PSG gibt sich keine Blösse",
+    "image": "https://www.srf.ch/static/cms/images//320ws/efc88b3.webp"
+  },
+  {
+    "title": "Auslosung Viertelfinals – GC – YB und Servette – Basel als Schlagerpartien im Frauen-Cup",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d454ff.webp"
+  },
+  {
+    "title": "News aus der Super League – Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1ee247.webp"
+  },
+  {
     "title": "Nach «Clasico»-Sieg von Real – Dank «Mourinho-Masterclass» ist die Spannung in LaLiga zurück",
     "image": "https://www.srf.ch/static/cms/images//320ws/6756d5.webp"
   },
   {
-    "title": "Fussball-Wochenende in Bildern – Taumelnde Teufel, falsche Goalies und alte Bekannte",
-    "image": "https://www.srf.ch/static/cms/images//320ws/78afb6.webp"
+    "title": "ManUnited versinkt im Chaos – Carrick vor dem Aus – und dann?",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8ad8d2.webp"
   },
   {
-    "title": "Vergabe des Ballon d'Or – Ohne PSG-Stars: Schlägt in London Kanes goldene Stunde?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/193b62.webp"
+    "title": "Samuel Ballet träumt gross – Wie ein Schweizer mit Amed SK die Süper Lig aufmischt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/092b7f4.webp"
   },
   {
-    "title": "2:1-Sieg im «Clasico» – Doppelter Mbappé: Real gewinnt in Barcelona und holt auf",
-    "image": "https://www.srf.ch/static/cms/images//320ws/49ccd5.webp"
+    "title": "Sie erlitt Knieverletzung – Nati-Captain Stalder verpasst Eishockey-WM",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2e1355.webp"
   },
   {
-    "title": "Bundesliga, 7. Spieltag – Bayern schlägt Freiburg und erwartet den BVB als Leader",
-    "image": "https://www.srf.ch/static/cms/images//320ws/f74756.webp"
-  },
-  {
-    "title": "1:0 in der 11. SL-Runde – Minimalistisches Sion kehrt gegen Lausanne zum Siegen zurück",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d98200.webp"
+    "title": "News aus der National League – Captain Thürkauf fehlt Lugano lange – Marchon 3 Spiele gesperrt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d99ba2.webp"
   },
   {
     "title": "NHL in der Nacht auf Montag – 3-facher Josi gegen Avalanche – Bichsel mit Premiere",
@@ -172,12 +144,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/dbfcac.webp"
   },
   {
-    "title": "Weg von den Winnipeg Jets – Per sofort: Hellebuyck wird neuer Torhüter der New Jersey Devils",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1f3dc2.webp"
-  },
-  {
-    "title": "News aus der National League – Carr-Urteil: Biel legt Rekurs ein und erwägt Zivilklage",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c8b25f.webp"
+    "title": "Swiss Indoors live – Shelton als Vorprogramm zu Wawrinkas möglicher Dernière",
+    "image": "https://www.srf.ch/static/cms/images//320ws/7e2214.webp"
   },
   {
     "title": "Absage für Tokio – Fussverletzung zwingt Bencic zum vorzeitigen Saisonende",
@@ -198,10 +166,6 @@
   {
     "title": "Swiss Indoors in Basel – Ein Turnier ganz im Zeichen von Wawrinkas letztem Tanz",
     "image": "https://www.srf.ch/static/cms/images//320ws/de0bd89.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Wawrinka scheitert an Cobolli – auch Bencic out",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b59268.webp"
   },
   {
     "title": "News aus dem Skisport – Neuer FIS-Renndirektor: Plancker folgt auf Waldner",
@@ -276,6 +240,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/390c5e9.webp"
   },
   {
+    "title": "Curling-EM in Ostrava steht an – Neues Turnier-Format: Team Pätz und Team Hösli wollen abliefern",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d6d0ae5.webp"
+  },
+  {
     "title": "News aus den US Sports – Meister Seattle zeigt Mahomes den Meister – Knicks weiter sieglos",
     "image": "https://www.srf.ch/static/cms/images//320ws/a304fc.webp"
   },
@@ -294,9 +262,5 @@
   {
     "title": "Kunstturn-WM in Rotterdam – Nemour rehabilitiert sich und holt überlegen Gold",
     "image": "https://www.srf.ch/static/cms/images//320ws/229efc.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Djakovic pulverisiert Schweizer Rekord über 800 m",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ce44c2.webp"
   }
 ]
