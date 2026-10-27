@@ -1,15 +1,19 @@
 [
   {
-    "title": "Swiss Indoors am Dienstag – Zum richtigen Moment bereit: Kym wirft Rinderknech raus",
-    "image": "https://www.srf.ch/static/cms/images//320ws/f2c61f.webp"
+    "title": "Swiss Indoors in Basel – Ende einer eindrücklichen Karriere: Wawrinka unterliegt Lehecka",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c55823.webp"
+  },
+  {
+    "title": "Wawrinka, der grosse Kämpfer – «Stanimal», «Marathon-Stan», «Iron-Stan»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6f493d.webp"
   },
   {
     "title": "SFV hat entschieden – Xhaka und Embolo kehren zum Nationalteam zurück",
     "image": "https://www.srf.ch/static/cms/images//320ws/596c49.webp"
   },
   {
-    "title": "National League am Dienstag – Audio-Konferenz: Final-Reprise und der Klassiker Bern – ZSC",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b6dbce.webp"
+    "title": "National League am Dienstag – ZSC weiter eine Klasse für sich – Tigers deklassieren Lausanne",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5c0bd2.webp"
   },
   {
     "title": "Diebstahl persönlicher Daten – Schweizer Eishockeyverband wird Opfer eines Cyberangriffs",
@@ -20,12 +24,28 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/887bf3.webp"
   },
   {
-    "title": "«Podcast am Pistenrand» – Tränen im Zielraum",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
+    "title": "DFB-Pokal, 2. Runde – Aus für Schweizer Trainer im Pokal – Sabitzer erlöst BVB",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1300010.webp"
+  },
+  {
+    "title": "Fussball aus den Topligen – Aus gegen Viertligisten: Arsenal blamiert sich im EFL-Cup",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a914ed.webp"
   },
   {
     "title": "Werbeverträge weg – Mbappés Mao-Spruch löst weitreichende Reaktionen aus",
     "image": "https://www.srf.ch/static/cms/images//320ws/8d044f.webp"
+  },
+  {
+    "title": "Swiss Indoors am Dienstag – Zum richtigen Moment bereit: Kym wirft Rinderknech raus",
+    "image": "https://www.srf.ch/static/cms/images//320ws/f2c61f.webp"
+  },
+  {
+    "title": "Curling-EM in Ostrava – Schweizerinnen starten mit Sieg über Tschechien ins Turnier",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8a0b63.webp"
+  },
+  {
+    "title": "«Podcast am Pistenrand» – Tränen im Zielraum",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
   },
   {
     "title": "Langer WM-Zusammenzug – Frauen-Nati will «Nummer 1 in Europa bleiben»",
@@ -48,16 +68,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/1c295c7.webp"
   },
   {
-    "title": "Auftakt zur Spitzensport-RS – «Es gibt Schlimmeres»: Sanches und Co. in Magglingen eingerückt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e5bcc0.webp"
-  },
-  {
     "title": "Abschied von «Stan the Man» – Wie Stan Wawrinka im Schatten der Big Four brillierte",
     "image": "https://www.srf.ch/static/cms/images//320ws/dcfc09.webp"
   },
   {
-    "title": "An Swiss Indoors gefeiert – «Stallone des Tennis»: Grosse Hommage an Stan Wawrinka in Basel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/cb95190.webp"
+    "title": "Auftakt zur Spitzensport-RS – «Es gibt Schlimmeres»: Sanches und Co. in Magglingen eingerückt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e5bcc0.webp"
   },
   {
     "title": "News aus dem Tennis – Teichmann gewinnt Schweizer Duell",
@@ -66,22 +82,6 @@
   {
     "title": "Bisher Coach von Wawrinka – Sinner heuert offenbar Norman als neuen Trainer an",
     "image": "https://www.srf.ch/static/cms/images//320ws/d37091e.webp"
-  },
-  {
-    "title": "Swiss Indoors in Basel – Stricker gibt Spiel aus der Hand – Brunold zahlt Lehrgeld",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e8c4d3.webp"
-  },
-  {
-    "title": "News aus den US Sports – Brewers nach Kantersieg vor dem Titel – Rockets ungeschlagen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/88c9db.webp"
-  },
-  {
-    "title": "WM-Premiere im kommenden Jahr – Volleyball-Nati trifft auf namhafte Gegner",
-    "image": "https://www.srf.ch/static/cms/images//320ws/7c6f6b.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Neuer Steuermann für Alinghi",
-    "image": "https://www.srf.ch/static/cms/images//320ws/3d5fc15.webp"
   },
   {
     "title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
@@ -144,8 +144,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/dbfcac.webp"
   },
   {
+    "title": "An Swiss Indoors gefeiert – «Stallone des Tennis»: Grosse Hommage an Stan Wawrinka in Basel",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cb95190.webp"
+  },
+  {
     "title": "Swiss Indoors live – Shelton als Vorprogramm zu Wawrinkas möglicher Dernière",
     "image": "https://www.srf.ch/static/cms/images//320ws/7e2214.webp"
+  },
+  {
+    "title": "Swiss Indoors in Basel – Stricker gibt Spiel aus der Hand – Brunold zahlt Lehrgeld",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e8c4d3.webp"
   },
   {
     "title": "Absage für Tokio – Fussverletzung zwingt Bencic zum vorzeitigen Saisonende",
@@ -158,14 +166,6 @@
   {
     "title": "Vor seinem letzten Turnier – Wawrinka: «Ich freue mich auf alle Emotionen»",
     "image": "https://www.srf.ch/static/cms/images//320ws/716d27.webp"
-  },
-  {
-    "title": "Auslosung Swiss Indoors – Happiges Los für Wawrinka – Djokovic gegen Humbert",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ef02af.webp"
-  },
-  {
-    "title": "Swiss Indoors in Basel – Ein Turnier ganz im Zeichen von Wawrinkas letztem Tanz",
-    "image": "https://www.srf.ch/static/cms/images//320ws/de0bd89.webp"
   },
   {
     "title": "News aus dem Skisport – Neuer FIS-Renndirektor: Plancker folgt auf Waldner",
@@ -240,8 +240,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/390c5e9.webp"
   },
   {
+    "title": "News aus den US Sports – Brewers nach Kantersieg vor dem Titel – Rockets ungeschlagen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/88c9db.webp"
+  },
+  {
     "title": "Curling-EM in Ostrava steht an – Neues Turnier-Format: Team Pätz und Team Hösli wollen abliefern",
     "image": "https://www.srf.ch/static/cms/images//320ws/d6d0ae5.webp"
+  },
+  {
+    "title": "WM-Premiere im kommenden Jahr – Volleyball-Nati trifft auf namhafte Gegner",
+    "image": "https://www.srf.ch/static/cms/images//320ws/7c6f6b.webp"
+  },
+  {
+    "title": "Weitere Sport-News – Neuer Steuermann für Alinghi",
+    "image": "https://www.srf.ch/static/cms/images//320ws/3d5fc15.webp"
   },
   {
     "title": "News aus den US Sports – Meister Seattle zeigt Mahomes den Meister – Knicks weiter sieglos",
@@ -250,17 +262,5 @@
   {
     "title": "Kunstturn-WM in Rotterdam – Seifert bei Zou-Dominanz Letzter – Nemour doppelt nach",
     "image": "https://www.srf.ch/static/cms/images//320ws/726cec.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Chabloz ist Freestyle-Weltmeister – Gewichtheben-WM in Russland",
-    "image": "https://www.srf.ch/static/cms/images//320ws/2fbdaa.webp"
-  },
-  {
-    "title": "News aus den US Sports – 3. Saisontor für Embolo – Devils erhalten Momentum aufrecht",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ac5111.webp"
-  },
-  {
-    "title": "Kunstturn-WM in Rotterdam – Nemour rehabilitiert sich und holt überlegen Gold",
-    "image": "https://www.srf.ch/static/cms/images//320ws/229efc.webp"
   }
 ]
