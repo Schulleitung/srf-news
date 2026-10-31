@@ -1,11 +1,23 @@
 [
   {
-    "title": "National League am Freitag – Zug mit nächstem Heimsieg – ZSC im Shootout erfolgreich",
-    "image": "https://www.srf.ch/static/cms/images//320ws/da9c89a.webp"
+    "title": "Motorrad: GP in Malaysia – Forfait in Malaysia: WM-Titel für Martin «verloren»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e236fd.webp"
   },
   {
-    "title": "News aus der National League – Nach Biel-Rekurs: Sperre gegen Carr auf 7 Spiele ausgeweitet",
-    "image": "https://www.srf.ch/static/cms/images//320ws/334e32.webp"
+    "title": "Formel 1: Training GP Mexiko – Antonelli im Soll – Verstappen und Lawson bestraft",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5bdda1.webp"
+  },
+  {
+    "title": "NHL in der Nacht auf Samstag – Devils wieder in der Erfolgsspur – Niederreiter fehlt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8f6265f.webp"
+  },
+  {
+    "title": "NBA in der Nacht auf Samstag – Capelas Rockets kassieren die erste Niederlage",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cd08e9.webp"
+  },
+  {
+    "title": "National League am Freitag – Zug mit nächstem Heimsieg – ZSC im Shootout erfolgreich",
+    "image": "https://www.srf.ch/static/cms/images//320ws/da9c89a.webp"
   },
   {
     "title": "Viertelfinal Swiss Indoors – Nach Wawrinkas Karriere endet auch Kyms Lauf gegen Lehecka",
@@ -60,10 +72,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/631a66.webp"
   },
   {
-    "title": "Trotz Handgelenkbruch am Start – Zähneputzen nein, Motorrad fahren ja: Martin beisst sich durch",
-    "image": "https://www.srf.ch/static/cms/images//320ws/f8ea701.webp"
-  },
-  {
     "title": "TAS hat entschieden – Russland darf an der Eishockey-WM 2027 wieder mittun",
     "image": "https://www.srf.ch/static/cms/images//320ws/90844a.webp"
   },
@@ -94,14 +102,6 @@
   {
     "title": "1000. NL-Einsatz steht bevor – Genoni: Meilenstein im Blick, aber noch lange nicht am Ende",
     "image": "https://www.srf.ch/static/cms/images//320ws/a35ad92.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Teichmann in Guangzhou out – Medwedew bei ATP Finals dabei",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c483736.webp"
-  },
-  {
-    "title": "Als 30. Spieler – Zverev ab Montag erstmals die Nummer 1 der Weltrangliste",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ef84f1.webp"
   },
   {
     "title": "Sonntag, 18:00 Uhr, SRF zwei – «Sportpanorama» mit Skicrosser Alex Fiva",
@@ -164,6 +164,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/f6edc4.webp"
   },
   {
+    "title": "News aus der National League – Nach Biel-Rekurs: Sperre gegen Carr auf 7 Spiele ausgeweitet",
+    "image": "https://www.srf.ch/static/cms/images//320ws/334e32.webp"
+  },
+  {
     "title": "NHL in der Nacht auf Freitag – 3 Josi-Assists reichen Nashville nicht zu Punkten",
     "image": "https://www.srf.ch/static/cms/images//320ws/8fb6a8.webp"
   },
@@ -184,8 +188,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/15fe1d.webp"
   },
   {
-    "title": "Euro Hockey Tour in Schweden – Revanche verpasst: Schweizerinnen unterliegen Finnland erneut",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0d9340.webp"
+    "title": "News aus dem Tennis – Teichmann in Guangzhou out – Medwedew bei ATP Finals dabei",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c483736.webp"
   },
   {
     "title": "In Basel auf Rekordkurs – Nach überstandenem «Déjà-vu»: Kym gegen Trainingspartner Lehecka",
@@ -200,16 +204,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/71dad7.webp"
   },
   {
+    "title": "Als 30. Spieler – Zverev ab Montag erstmals die Nummer 1 der Weltrangliste",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ef84f1.webp"
+  },
+  {
     "title": "Swiss Indoors in Basel – Nach umkämpftem Dreisätzer: Jodar scheidet überraschend aus",
     "image": "https://www.srf.ch/static/cms/images//320ws/fdcdeb.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Teichmann erreicht in Guangzhou den Viertelfinal",
-    "image": "https://www.srf.ch/static/cms/images//320ws/713c32.webp"
-  },
-  {
-    "title": "Swiss Indoors Basel – Djokovic mit Anlaufschwierigkeiten – Fritz gibt sich keine Blösse",
-    "image": "https://www.srf.ch/static/cms/images//320ws/40d22c.webp"
   },
   {
     "title": "News aus dem Skisport – Kvitfjell übernimmt im März abgesagte Narvik-Rennen",
@@ -260,6 +260,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/38c230.webp"
   },
   {
+    "title": "Trotz Handgelenkbruch am Start – Zähneputzen nein, Motorrad fahren ja: Martin beisst sich durch",
+    "image": "https://www.srf.ch/static/cms/images//320ws/f8ea701.webp"
+  },
+  {
     "title": "Motorsport-News – Vor Jubiläum zu Hause: Perez verlängert bei Cadillac",
     "image": "https://www.srf.ch/static/cms/images//320ws/ba907f6.webp"
   },
@@ -278,10 +282,6 @@
   {
     "title": "Trainings zum GP in Austin – Leclerc am schnellsten unterwegs, Antonelli lauert",
     "image": "https://www.srf.ch/static/cms/images//320ws/97ca59.webp"
-  },
-  {
-    "title": "MotoGP in Australien – Marc Marquez gewinnt Sprint vor Bruder Alex – Drama um Martin",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1d563c.webp"
   },
   {
     "title": "Para-Bahnrad-WM in Apeldoorn – Rigling glänzt mit Gold und Weltrekord",
