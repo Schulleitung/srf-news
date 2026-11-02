@@ -104,26 +104,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/5a4d39.webp"
   },
   {
-    "title": "NHL in der Nacht auf Sonntag – Duell der Schweizer Verteidiger geht an Roman Josi",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ce4759.webp"
-  },
-  {
-    "title": "News aus den US Sports – WNBA: Triumph für Golden State Valkyries",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6cc8e3.webp"
-  },
-  {
-    "title": "National League am Samstag – Ambri und ZSC feiern Derbysiege – Zug kantert Bern nieder",
-    "image": "https://www.srf.ch/static/cms/images//320ws/44236b4.webp"
-  },
-  {
-    "title": "News aus der National League – Honka und Tanus verlassen Ajoie Ende Saison",
-    "image": "https://www.srf.ch/static/cms/images//320ws/13c45a.webp"
-  },
-  {
-    "title": "Zögern vor Nati-Rückkehr – «Kollektivstrafe»: Embolo von Verband «enttäuscht»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/98e373.webp"
-  },
-  {
     "title": "Fussball-Podcast Sykora Gisler – «Innerlich ist bei mir die Hölle los»",
     "image": "https://www.srf.ch/static/cms/images//320ws/105d5a.webp"
   },
@@ -160,8 +140,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c05eb5.webp"
   },
   {
-    "title": "SRF-Livespiel am Samstagabend – Form etwas abgekühlt: Läuft Sions Boteli in Luzern wieder heiss?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4ed0c4.webp"
+    "title": "Zögern vor Nati-Rückkehr – «Kollektivstrafe»: Embolo von Verband «enttäuscht»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/98e373.webp"
+  },
+  {
+    "title": "NHL in der Nacht auf Sonntag – Duell der Schweizer Verteidiger geht an Roman Josi",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ce4759.webp"
+  },
+  {
+    "title": "National League am Samstag – Ambri und ZSC feiern Derbysiege – Zug kantert Bern nieder",
+    "image": "https://www.srf.ch/static/cms/images//320ws/44236b4.webp"
+  },
+  {
+    "title": "News aus der National League – Honka und Tanus verlassen Ajoie Ende Saison",
+    "image": "https://www.srf.ch/static/cms/images//320ws/13c45a.webp"
   },
   {
     "title": "Women's Euro Hockey Tour – Frauen-Nati verliert auch letzten WM-Test",
@@ -174,18 +166,6 @@
   {
     "title": "National League am Freitag – Zug mit nächstem Heimsieg – ZSC im Shootout erfolgreich",
     "image": "https://www.srf.ch/static/cms/images//320ws/da9c89a.webp"
-  },
-  {
-    "title": "2. Spiel Euro Hockey Tour – Maurer kaum zu überwinden: Nati unterliegt Schweden in extremis",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b116d5.webp"
-  },
-  {
-    "title": "Sportpolitik-Kenner Aumüller – «Russland spätestens 2028 vollständig zurück im Weltsport»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/026493c.webp"
-  },
-  {
-    "title": "Rückkehr nach TAS-Entscheid – Muss ausgerechnet die Ukraine Russland ihren WM-Platz überlassen?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/19226c3.webp"
   },
   {
     "title": "News aus dem Tennis – De Minaur schlägt Zverev und folgt Alcaraz in den Final von Wien",
@@ -284,6 +264,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/f8ea701.webp"
   },
   {
+    "title": "News aus den US Sports – WNBA: Triumph für Golden State Valkyries",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6cc8e3.webp"
+  },
+  {
     "title": "Weitere Sport-News – Nach 3. Platz am Vortag: Martin Fuchs siegt in Lyon",
     "image": "https://www.srf.ch/static/cms/images//320ws/fb18e2.webp"
   },
@@ -302,9 +286,5 @@
   {
     "title": "Para-Bahnrad-WM in Apeldoorn – Rigling doppelt nach – Lutz holt Bronze im Sprint",
     "image": "https://www.srf.ch/static/cms/images//320ws/2987b1.webp"
-  },
-  {
-    "title": "Curling-EM in Ostrava – Schweizer Männer verpassen Halbfinals – Frauen-Serie hält an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8dd555.webp"
   }
 ]
