@@ -1,5 +1,17 @@
 [
   {
+    "title": "Champions League, 4. Spieltag – Yamal und Manzambi auffällig: Barça schlägt Aston Villa verdient",
+    "image": "https://www.srf.ch/static/cms/images//320ws/118290f.webp"
+  },
+  {
+    "title": "CL: Deutscher Jubel und Frust – Bayern atmet bei Atletico auf – Stuttgart muss untendurch",
+    "image": "https://www.srf.ch/static/cms/images//320ws/99c0cd.webp"
+  },
+  {
+    "title": "Champions League: Round-up – PSG und LASK im Rausch – ManUnited schlägt gegen AS Roma zurück",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2bfba5.webp"
+  },
+  {
     "title": "11 Monate nach Horrorsturz – Rücktritt statt Rückkehr: Michelle Gisin beendet ihre Karriere",
     "image": "https://www.srf.ch/static/cms/images//320ws/c456483.webp"
   },
@@ -12,36 +24,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
   },
   {
-    "title": "Nach dem 4:5 gegen Thun – Schlusslicht Lausanne trennt sich von Trainer Elsner",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9fa3cc9.webp"
-  },
-  {
-    "title": "News aus der Super League – FCZ-Flügel Emmanuel hätte gegen YB vom Platz fliegen müssen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/27ed9e.webp"
-  },
-  {
-    "title": "ATP-1000-Turnier in Paris – Djokovic schaltet den Basel-Sieger Vacherot aus",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6e2d03.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Teichmann in Indien früh ausgeschieden – Premiere für Karamodo",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1f7012.webp"
-  },
-  {
-    "title": "Eine Schweizer Spezialität – Die einhändige Rückhand ist ein Auslaufmodell im Tennis",
-    "image": "https://www.srf.ch/static/cms/images//320ws/194ca9.webp"
-  },
-  {
-    "title": "CL: Barça empfängt Aston Villa – Wer sorgt im Camp Nou für die Musik – Yamal oder doch Manzambi?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1d0071.webp"
-  },
-  {
-    "title": "Charaktertest am Sehnsuchtsort – Geplagte Bayern wollen «nicht zurückziehen»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a0decb.webp"
-  },
-  {
-    "title": "In eigener Sache – SRF-Stellungnahme zur Berichterstattung über Hans Jucker",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5b1e750.webp"
+    "title": "Deutsche Trainer-Ikone – Nach fast 20 Jahren: Frank Schmidt verlässt Heidenheim im Sommer",
+    "image": "https://www.srf.ch/static/cms/images//320ws/452ed0.webp"
   },
   {
     "title": "Auslosung Nations League – Schweizerinnen müssen gegen Weltmeister Spanien ran",
@@ -60,6 +44,38 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/f06675.webp"
   },
   {
+    "title": "ATP-1000-Turnier in Paris – Djokovic schaltet den Basel-Sieger Vacherot aus",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6e2d03.webp"
+  },
+  {
+    "title": "News aus dem Tennis – Waltert besteht in Indien die erste Prüfung, Teichmann nicht",
+    "image": "https://www.srf.ch/static/cms/images//320ws/917323.webp"
+  },
+  {
+    "title": "Eine Schweizer Spezialität – Die einhändige Rückhand ist ein Auslaufmodell im Tennis",
+    "image": "https://www.srf.ch/static/cms/images//320ws/194ca9.webp"
+  },
+  {
+    "title": "Nach TAS-Urteil zu Russland – Widerstand wächst: Eishockey-WM 2027 wackelt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/63cfcc.webp"
+  },
+  {
+    "title": "News aus der National League – Auf eigenen Wunsch: Wüthrich will weg von Ambri",
+    "image": "https://www.srf.ch/static/cms/images//320ws/21b4a3.webp"
+  },
+  {
+    "title": "Nach dem 4:5 gegen Thun – Schlusslicht Lausanne trennt sich von Trainer Elsner",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9fa3cc9.webp"
+  },
+  {
+    "title": "News aus der Super League – FCZ-Flügel Emmanuel hätte gegen YB vom Platz fliegen müssen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/27ed9e.webp"
+  },
+  {
+    "title": "In eigener Sache – SRF-Stellungnahme zur Berichterstattung über Hans Jucker",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5b1e750.webp"
+  },
+  {
     "title": "Giro d'Italia 2027 – Veloklassiker bietet bei Jubiläum einige Highlights",
     "image": "https://www.srf.ch/static/cms/images//320ws/853f3b.webp"
   },
@@ -68,20 +84,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/a66255.webp"
   },
   {
-    "title": "Nach TAS-Urteil zu Russland – Widerstand wächst: Eishockey-WM 2027 wackelt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/63cfcc.webp"
-  },
-  {
-    "title": "FIS-Präsident Ospelt im «Podcast am Pistenrand» – Champions League im Ski? «Kann nächstes Jahr mehr sagen»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/00909b.webp"
+    "title": "Dänemark-Duell als Highlight – Heim-EM-Countdown startet für Handball-Nati mit zwei Krachern",
+    "image": "https://www.srf.ch/static/cms/images//320ws/367bda.webp"
   },
   {
     "title": "Knatsch der Verbände – Fronten verhärtet: Deshalb verpasst die Schweiz die Padel-WM",
     "image": "https://www.srf.ch/static/cms/images//320ws/807e5fb.webp"
   },
   {
-    "title": "Dänemark-Duell als Highlight – Heim-EM-Countdown startet für Handball-Nati mit zwei Krachern",
-    "image": "https://www.srf.ch/static/cms/images//320ws/367bda.webp"
+    "title": "FIS-Präsident Ospelt im «Podcast am Pistenrand» – Champions League im Ski? «Kann nächstes Jahr mehr sagen»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/00909b.webp"
   },
   {
     "title": "Mental Health im Profifussball – Co-Trainerschaft als Lösung gegen den Dauerdruck?",
@@ -120,6 +132,14 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/f8b7d99.webp"
   },
   {
+    "title": "Charaktertest am Sehnsuchtsort – Geplagte Bayern wollen «nicht zurückziehen»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a0decb.webp"
+  },
+  {
+    "title": "CL: Barça empfängt Aston Villa – Wer sorgt im Camp Nou für die Musik – Yamal oder doch Manzambi?",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1d0071.webp"
+  },
+  {
     "title": "Internationale Fussball-News – Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
     "image": "https://www.srf.ch/static/cms/images//320ws/faa718.webp"
   },
@@ -134,14 +154,6 @@
   {
     "title": "Fussball-Gallery vom Weekend – Blau-weisser Jubel, Igor Spassikowski, aber auch tiefe Trauer",
     "image": "https://www.srf.ch/static/cms/images//320ws/0228641.webp"
-  },
-  {
-    "title": "Schweizerinnen im Ausland – Premierentor: Wandeler wird von Piubel lanciert",
-    "image": "https://www.srf.ch/static/cms/images//320ws/84a0b2.webp"
-  },
-  {
-    "title": "Bundesliga am Sonntag – Union punktet nach Klatsche – Frankfurt schlägt den HSV erneut",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0d65f4.webp"
   },
   {
     "title": "Zulassung Russlands – Turku droht mit WM-Rückgabe, Finnen mit Russland-Boykott",
