@@ -1,15 +1,11 @@
 [
   {
-    "title": "Neun Jahre nach Anschlag – Rumpeln in den Zehenspitzen: Bartra zurück in Dortmund",
-    "image": "https://www.srf.ch/static/cms/images//320ws/cc01e92.webp"
+    "title": "Champions League: Round-up – 9:1! Como schafft Historisches – Valverde erlöst Real Madrid spät",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8b3c62.webp"
   },
   {
-    "title": "Mit Betis zu Gast in Dortmund – Pellegrini kehrt an den Ort seiner bittersten Niederlage zurück",
-    "image": "https://www.srf.ch/static/cms/images//320ws/09bb8af.webp"
-  },
-  {
-    "title": "RB Leipzig vs. ManCity – Gegen gute Freunde schmeckt ein Sieg besonders süss",
-    "image": "https://www.srf.ch/static/cms/images//320ws/f3fe81.webp"
+    "title": "BVB besiegt Betis – Valles wird vom Hexer zur tragischen Figur",
+    "image": "https://www.srf.ch/static/cms/images//320ws/702075.webp"
   },
   {
     "title": "ATP-1000-Turnier Paris-Bercy – Djokovic verpasst Finals – Zverev verliert bei Premiere als Nr. 1",
@@ -18,6 +14,14 @@
   {
     "title": "Rückkehr bei der WM 2027? – Russland-Zulassung: Eishockey-Weltverband vertagt Entscheidung",
     "image": "https://www.srf.ch/static/cms/images//320ws/efb37e.webp"
+  },
+  {
+    "title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b1cb7e.webp"
+  },
+  {
+    "title": "EHT: Auftakt in WM-Vorlauf – Schweizer Nati: Als Weltnummer 1 nach Helsinki",
+    "image": "https://www.srf.ch/static/cms/images//320ws/27eaf2.webp"
   },
   {
     "title": "Schweiz weiter Europas Nr. 1? – «Es wird schwieriger» mit dem neuen Modus an der Eishockey-WM",
@@ -34,10 +38,6 @@
   {
     "title": "News aus der Super League – FCZ-Flügel Emmanuel hätte gegen YB vom Platz fliegen müssen",
     "image": "https://www.srf.ch/static/cms/images//320ws/27ed9e.webp"
-  },
-  {
-    "title": "Dänemark-Duell als Highlight – Heim-EM-Countdown startet für Handball-Nati mit zwei Krachern",
-    "image": "https://www.srf.ch/static/cms/images//320ws/367bda.webp"
   },
   {
     "title": "Streit bei der «Scuderia» – Bei Ferrari fliegen die Fetzen: Verschenkter Mexiko-GP hallt nach",
@@ -136,6 +136,18 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/105d5a.webp"
   },
   {
+    "title": "RB Leipzig vs. ManCity – Gegen gute Freunde schmeckt ein Sieg besonders süss",
+    "image": "https://www.srf.ch/static/cms/images//320ws/f3fe81.webp"
+  },
+  {
+    "title": "Mit Betis zu Gast in Dortmund – Pellegrini kehrt an den Ort seiner bittersten Niederlage zurück",
+    "image": "https://www.srf.ch/static/cms/images//320ws/09bb8af.webp"
+  },
+  {
+    "title": "Neun Jahre nach Anschlag – Rumpeln in den Zehenspitzen: Bartra zurück in Dortmund",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cc01e92.webp"
+  },
+  {
     "title": "Nach dem 4:5 gegen Thun – Schlusslicht Lausanne trennt sich von Trainer Elsner",
     "image": "https://www.srf.ch/static/cms/images//320ws/9fa3cc9.webp"
   },
@@ -146,18 +158,6 @@
   {
     "title": "Charaktertest am Sehnsuchtsort – Geplagte Bayern wollen «nicht zurückziehen»",
     "image": "https://www.srf.ch/static/cms/images//320ws/a0decb.webp"
-  },
-  {
-    "title": "CL: Barça empfängt Aston Villa – Wer sorgt im Camp Nou für die Musik – Yamal oder doch Manzambi?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1d0071.webp"
-  },
-  {
-    "title": "Mental Health im Profifussball – Co-Trainerschaft als Lösung gegen den Dauerdruck?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c75a90.webp"
-  },
-  {
-    "title": "Internationale Fussball-News – Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
-    "image": "https://www.srf.ch/static/cms/images//320ws/faa718.webp"
   },
   {
     "title": "News aus der National League – Auf eigenen Wunsch: Wüthrich will weg von Ambri",
@@ -280,6 +280,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/bedc6fc.webp"
   },
   {
+    "title": "Dänemark-Duell als Highlight – Heim-EM-Countdown startet für Handball-Nati mit zwei Krachern",
+    "image": "https://www.srf.ch/static/cms/images//320ws/367bda.webp"
+  },
+  {
     "title": "Knatsch der Verbände – Fronten verhärtet: Deshalb verpasst die Schweiz die Padel-WM",
     "image": "https://www.srf.ch/static/cms/images//320ws/807e5fb.webp"
   },
@@ -298,9 +302,5 @@
   {
     "title": "News aus den US Sports – Niederreiter mit Einsatz bei nächster Jets-Niederlage",
     "image": "https://www.srf.ch/static/cms/images//320ws/3f3a83d.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Eiskunstlauf-Duo auf Rang 3 – Ringer Scherrer verpasst Bronze",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5ebc66.webp"
   }
 ]
