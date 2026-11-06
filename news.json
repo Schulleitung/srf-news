@@ -1,7 +1,15 @@
 [
   {
+    "title": "3:0 in der Conference League – 2 Traumtore inklusive: Lugano schlägt auch litauischen Meister",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0891150.webp"
+  },
+  {
     "title": "3:1 gegen Heart of Midlothian – Thun bestätigt gegen schwache Schotten seinen Aufwärtstrend",
     "image": "https://www.srf.ch/static/cms/images//320ws/56a05c.webp"
+  },
+  {
+    "title": "Europa League: 4. Spieltag – Milan erneut kalt geduscht – auch Sunderland verliert",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6c5a06.webp"
   },
   {
     "title": "Euro Hockey Tour in Helsinki – Keine WM-Final-Revanche: Schweiz unterliegt Finnland",
@@ -10,6 +18,10 @@
   {
     "title": "Nach TAS-Urteil – Russland-Frage: Schweizer Verband wartet ab",
     "image": "https://www.srf.ch/static/cms/images//320ws/b76ad8.webp"
+  },
+  {
+    "title": "Vaduz-Shootingstar im Fokus – Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
+    "image": "https://www.srf.ch/static/cms/images//320ws/fc4f411.webp"
   },
   {
     "title": "Soll die Klasse halten – Magnin steht bei seiner Rückkehr vor «schwierigstem Auftrag»",
@@ -96,48 +108,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/24fd38.webp"
   },
   {
-    "title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b1cb7e.webp"
-  },
-  {
-    "title": "Streit bei der «Scuderia» – Bei Ferrari fliegen die Fetzen: Verschenkter Mexiko-GP hallt nach",
-    "image": "https://www.srf.ch/static/cms/images//320ws/002b43.webp"
-  },
-  {
-    "title": "Motorsport-News – «Im Interesse des Teams»: Ocon fliegt bei Haas aus dem Cockpit",
-    "image": "https://www.srf.ch/static/cms/images//320ws/2f6f0e0.webp"
-  },
-  {
-    "title": "Junge Schweizer Leichtathletin – Hirsbrunner führt die Langnauer Hürden-Tradition fort",
-    "image": "https://www.srf.ch/static/cms/images//320ws/2ee384.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Youth Olympic Games: Zweimal Bronze für die Schweiz",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e83f85.webp"
-  },
-  {
-    "title": "ATP-1000-Turnier Paris-Bercy – Djokovic verpasst Finals – Zverev verliert bei Premiere als Nr. 1",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8d7991.webp"
-  },
-  {
-    "title": "Rückkehr bei der WM 2027? – Russland-Zulassung: Eishockey-Weltverband vertagt Entscheidung",
-    "image": "https://www.srf.ch/static/cms/images//320ws/efb37e.webp"
-  },
-  {
-    "title": "11 Monate nach Horrorsturz – Rücktritt statt Rückkehr: Michelle Gisin beendet ihre Karriere",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c456483.webp"
-  },
-  {
-    "title": "Zum Rücktritt der Allrounderin – Michelle Gisin: Zwei goldene Momente und der bittere Abschied",
-    "image": "https://www.srf.ch/static/cms/images//320ws/3fca84.webp"
-  },
-  {
     "title": "«Podcast am Pistenrand» – Wer sagt’s Lara?",
     "image": "https://www.srf.ch/static/cms/images//320ws/b2e32b.webp"
-  },
-  {
-    "title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/cd688f.webp"
   },
   {
     "title": "Fussball-Podcast Sykora Gisler – «Innerlich ist bei mir die Hölle los»",
@@ -176,6 +148,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/67fc16.webp"
   },
   {
+    "title": "Rückkehr bei der WM 2027? – Russland-Zulassung: Eishockey-Weltverband vertagt Entscheidung",
+    "image": "https://www.srf.ch/static/cms/images//320ws/efb37e.webp"
+  },
+  {
     "title": "NHL in der Nacht auf Mittwoch – Josi trifft bei Sieg – Jets' historische Aufholjagd belohnt",
     "image": "https://www.srf.ch/static/cms/images//320ws/25ab5b.webp"
   },
@@ -188,8 +164,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/63cfcc.webp"
   },
   {
-    "title": "Zulassung Russlands – Turku droht mit WM-Rückgabe, Finnen mit Russland-Boykott",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4dbcee.webp"
+    "title": "ATP-1000-Turnier Paris-Bercy – Djokovic verpasst Finals – Zverev verliert bei Premiere als Nr. 1",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8d7991.webp"
   },
   {
     "title": "ATP-1000-Turnier in Paris – Djokovic schaltet den Basel-Sieger Vacherot aus",
@@ -212,8 +188,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/b278e5.webp"
   },
   {
-    "title": "Bilanz zu Swiss Indoors 2026 – «Ein Jahr der Rekorde»: Brennwald zieht positives Fazit",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1f19cd.webp"
+    "title": "Zum Rücktritt der Allrounderin – Michelle Gisin: Zwei goldene Momente und der bittere Abschied",
+    "image": "https://www.srf.ch/static/cms/images//320ws/3fca84.webp"
+  },
+  {
+    "title": "11 Monate nach Horrorsturz – Rücktritt statt Rückkehr: Michelle Gisin beendet ihre Karriere",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c456483.webp"
   },
   {
     "title": "FIS-Präsident Ospelt im PaP – Champions League im Ski? «Kann nächstes Jahr mehr sagen»",
@@ -232,12 +212,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/045f57.webp"
   },
   {
-    "title": "News aus dem Skisport – Kvitfjell übernimmt im März abgesagte Narvik-Rennen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/943970.webp"
-  },
-  {
-    "title": "News aus dem Skisport – Neuer FIS-Renndirektor: Plancker folgt auf Waldner",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a2d695b.webp"
+    "title": "Junge Schweizer Leichtathletin – Hirsbrunner führt die Langnauer Hürden-Tradition fort",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2ee384.webp"
   },
   {
     "title": "Marathon in New York – Hug und Debrunner einmal mehr nicht zu schlagen",
@@ -260,8 +236,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c70d85.webp"
   },
   {
-    "title": "News aus der Leichtathletik – Leichtathletik-EM 2030 nach Helsinki vergeben",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8c373b3.webp"
+    "title": "Streit bei der «Scuderia» – Bei Ferrari fliegen die Fetzen: Verschenkter Mexiko-GP hallt nach",
+    "image": "https://www.srf.ch/static/cms/images//320ws/002b43.webp"
+  },
+  {
+    "title": "Motorsport-News – «Im Interesse des Teams»: Ocon fliegt bei Haas aus dem Cockpit",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2f6f0e0.webp"
   },
   {
     "title": "Nach Antonellis WM-Titel – De Silvestro: «Das ist unglaublich. Eine Meisterleistung»",
@@ -280,12 +260,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/3dd161.webp"
   },
   {
-    "title": "Grosser Preis in Mexiko-Stadt – Rang 3 genügt locker: Antonelli macht WM-Titel perfekt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/619eb7.webp"
+    "title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b1cb7e.webp"
   },
   {
-    "title": "MotoGP in Malaysia – Sieg in Sepang: Marquez nutzt Martins Abwesenheit gnadenlos aus",
-    "image": "https://www.srf.ch/static/cms/images//320ws/bedc6fc.webp"
+    "title": "Weitere Sport-News – Youth Olympic Games: Zweimal Bronze für die Schweiz",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e83f85.webp"
   },
   {
     "title": "Dänemark-Duell als Highlight – Heim-EM-Countdown startet für Handball-Nati mit zwei Krachern",
@@ -302,13 +282,5 @@
   {
     "title": "Weitere Sport-News – Kandidatenkreis für Olympia 2036 steht",
     "image": "https://www.srf.ch/static/cms/images//320ws/e68cd9.webp"
-  },
-  {
-    "title": "In Brisbane an der Stätte 2032 – Krokodil nahe der Olympia-Ruderstrecke gesichtet",
-    "image": "https://www.srf.ch/static/cms/images//320ws/18ed74.webp"
-  },
-  {
-    "title": "News aus den US Sports – Niederreiter mit Einsatz bei nächster Jets-Niederlage",
-    "image": "https://www.srf.ch/static/cms/images//320ws/3f3a83d.webp"
   }
 ]
