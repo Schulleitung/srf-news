@@ -1,5 +1,25 @@
 [
   {
+    "title": "Euro Hockey Tour in Helsinki – Die Schweiz muss sich auch Schweden beugen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/46e70c.webp"
+  },
+  {
+    "title": "Fussball aus den Topligen – Joker Okafor sticht gegen Tottenham",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp"
+  },
+  {
+    "title": "Bundesliga: 9. Spieltag – Muheim leitet HSV-Sieg mit weiterem Traumtor ein",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1262a2.webp"
+  },
+  {
+    "title": "Optionen sollen geprüft werden – Nach tagelangen Beratungen: IIHF spielt auf Zeit",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a66a36.webp"
+  },
+  {
+    "title": "Russland-Frage polarisiert – Anders als Swiss Ice Hockey: Lettischer Verband zählt die IIHF an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/48628e.webp"
+  },
+  {
     "title": "Super League live bei SRF – GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
     "image": "https://www.srf.ch/static/cms/images//320ws/1e33f1.webp"
   },
@@ -12,12 +32,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/fc4f411.webp"
   },
   {
-    "title": "Bundesliga: 9. Spieltag – Muheim leitet HSV-Sieg mit weiterem Traumtor ein",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1262a2.webp"
+    "title": "News aus dem Skirennsport – Feller verpasst den Slalom-Auftakt in Levi",
+    "image": "https://www.srf.ch/static/cms/images//320ws/99b0e7.webp"
   },
   {
-    "title": "Fussball aus den Topligen – Vargas verschiesst Penalty – Sevilla mit Nullnummer",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0789694.webp"
+    "title": "News aus den US Sports – George nahe an seinem Rekord – Doncic wie einst Chamberlain",
+    "image": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp"
+  },
+  {
+    "title": "Spielerinnen-Wohl bei YB – Mit Anlaufstelle für Mental Health und sukzessivem Support",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a7cae38.webp"
+  },
+  {
+    "title": "3:1-Erfolg gegen Basel – Eiskalte Dysli schiesst YB zum 6. Sieg in Serie",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5cc4800.webp"
   },
   {
     "title": "Eishockey-WM in Dänemark – Schweizerinnen gegen die USA auf verlorenem Posten",
@@ -40,20 +68,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/79786c.webp"
   },
   {
-    "title": "News aus den US Sports – George schrammt mit 33 Punkten knapp am Rekord vorbei",
-    "image": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp"
+    "title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
+    "image": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp"
+  },
+  {
+    "title": "«Sie ist eine Diva» – Livestream-Panne: Pegula lästert über Andrejewa und wird ertappt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/380b75.webp"
+  },
+  {
+    "title": "News aus dem Tennis – Kurz nach Karriereende: Monfils übernimmt Davis-Cup-Team",
+    "image": "https://www.srf.ch/static/cms/images//320ws/3c719e.webp"
   },
   {
     "title": "ATP-1000-Turnier in Paris – Alcaraz siegt – und verhilft damit Jodar an die ATP Finals",
     "image": "https://www.srf.ch/static/cms/images//320ws/11ab55.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0560df.webp"
-  },
-  {
-    "title": "3:1-Erfolg gegen Basel – Eiskalte Dysli schiesst YB zum 6. Sieg in Serie",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5cc4800.webp"
   },
   {
     "title": "MotoGP gastiert in Katar – Ein GP im Zeichen der Unruhe – und des möglichen WM-Titels",
@@ -66,10 +94,6 @@
   {
     "title": "Der Teamchef gibt Entwarnung – «Können neues Kapitel aufschlagen» – Zoff bei Ferrari ausgeräumt?",
     "image": "https://www.srf.ch/static/cms/images//320ws/a5e8da.webp"
-  },
-  {
-    "title": "Russland-Frage polarisiert – Anders als Swiss Ice Hockey: Lettischer Verband zählt die IIHF an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/48628e.webp"
   },
   {
     "title": "Bezirksgericht Brig – Ex-Swiss-Ski-Vize Schmidhalter verurteilt",
@@ -86,18 +110,6 @@
   {
     "title": "18. resp. 19. Skicross-Saison – Smith und Fiva: Die «Alten» haben noch nicht genug",
     "image": "https://www.srf.ch/static/cms/images//320ws/6c163d.webp"
-  },
-  {
-    "title": "Euro Hockey Tour – Ein Neuling und ein Premierentorschütze",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ee9f33.webp"
-  },
-  {
-    "title": "«Sie ist eine Diva» – Livestream-Panne: Pegula lästert über Andrejewa und wird ertappt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/380b75.webp"
-  },
-  {
-    "title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp"
   },
   {
     "title": "Bedauern ob Ronaldos Rücktritt – Jesus: «Alle Jungen sollen ihn als Vorbild vor Augen haben»",
@@ -120,6 +132,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/105d5a.webp"
   },
   {
+    "title": "Fussball aus den Topligen – Vargas verschiesst Penalty – Sevilla mit Nullnummer",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0789694.webp"
+  },
+  {
     "title": "Europa League: 4. Spieltag – Milan erneut kalt geduscht – auch Sunderland verliert",
     "image": "https://www.srf.ch/static/cms/images//320ws/6c5a06.webp"
   },
@@ -140,8 +156,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/89ca123.webp"
   },
   {
-    "title": "Fussball-Drama in Spanien – De Miguel wird beigesetzt – Goalie Owono aus dem Kader gestrichen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8af1dc.webp"
+    "title": "Euro Hockey Tour – Ein Neuling und ein Premierentorschütze",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ee9f33.webp"
   },
   {
     "title": "NHL: Timo Meier mit Faustkampf – New Jersey führt klar, wankt und marschiert weiter",
@@ -164,8 +180,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/24fd38.webp"
   },
   {
-    "title": "EHT: Auftakt in WM-Vorlauf – Schweizer Nati: Als Weltnummer 1 nach Helsinki",
-    "image": "https://www.srf.ch/static/cms/images//320ws/27eaf2.webp"
+    "title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0560df.webp"
   },
   {
     "title": "News aus dem Tennis – Waltert bleibt in Chennai an Stefanini hängen",
@@ -186,10 +202,6 @@
   {
     "title": "Schneckenrennen um ATP-Finals – Viele Wackelkandidaten: Basel spielt Djokovic nicht in die Karten",
     "image": "https://www.srf.ch/static/cms/images//320ws/c255eb.webp"
-  },
-  {
-    "title": "Eine Schweizer Spezialität – Die einhändige Rückhand ist ein Auslaufmodell im Tennis",
-    "image": "https://www.srf.ch/static/cms/images//320ws/194ca9.webp"
   },
   {
     "title": "Zum Rücktritt der Allrounderin – Michelle Gisin: Zwei goldene Momente und der bittere Abschied",
