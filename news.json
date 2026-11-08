@@ -1,5 +1,9 @@
 [
   {
+    "title": "1. WM-Sieg dank 2:1 n.V. – Müller mit der Entscheidung: Die Schweiz schlägt Tschechien",
+    "image": "https://www.srf.ch/static/cms/images//320ws/78597e.webp"
+  },
+  {
     "title": "13. Runde der Super League – Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
     "image": "https://www.srf.ch/static/cms/images//320ws/b1416a.webp"
   },
@@ -20,7 +24,7 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/327c09.webp"
   },
   {
-    "title": "Fussball aus den Topligen – Doppelte Aufholjagd: ManUnited zeigt grosse Moral – Inter gewinnt",
+    "title": "Fussball aus den Topligen – Doppelte Aufholjagd von ManUnited – Barça schlägt Atletico",
     "image": "https://www.srf.ch/static/cms/images//320ws/574fbc5.webp"
   },
   {
@@ -52,10 +56,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/627ef6.webp"
   },
   {
-    "title": "Kostyuk rückt nach – Rybakina verzichtet auf Teilnahme an den WTA Finals",
-    "image": "https://www.srf.ch/static/cms/images//320ws/bda84d.webp"
-  },
-  {
     "title": "Weitere Sport-News – Kuhn mit starkem Ergebnis an Radquer-EM – Juniorin mit Medaille",
     "image": "https://www.srf.ch/static/cms/images//320ws/b392b9c.webp"
   },
@@ -78,10 +78,6 @@
   {
     "title": "Lüthi erläutert SIHF-Entscheid – Der Grund für den Sinneswandel? «Wir sind im Zugzwang»",
     "image": "https://www.srf.ch/static/cms/images//320ws/415f48.webp"
-  },
-  {
-    "title": "Optionen sollen geprüft werden – Nach tagelangen Beratungen: IIHF spielt auf Zeit",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a66a36.webp"
   },
   {
     "title": "Der YB-Goalgetter jagt Rekorde – Verrückte Spielerei: Essende kann es auf 44 Saisongoals bringen",
@@ -108,38 +104,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/99b0e7.webp"
   },
   {
-    "title": "NHL am Samstag/Sonntag – Josi glänzt mit 2 Assists – Devils gewinnen das Derby",
-    "image": "https://www.srf.ch/static/cms/images//320ws/eb0995.webp"
-  },
-  {
-    "title": "NBA in der Nacht auf Sonntag – Aus 33 mach 14: George nicht mehr so treffsicher",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5efed2.webp"
-  },
-  {
-    "title": "Trauerfeier nach Todesfall – Teneriffa nimmt unter Tränen Abschied von de Miguel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4bb28e.webp"
-  },
-  {
-    "title": "Bundesliga am Samstag – Bayern München und Dortmund im Gleichschritt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d280e5.webp"
-  },
-  {
-    "title": "Premier League am Samstag – Joker Okafor sticht gegen Tottenham – Arsenal enteilt ManCity",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp"
-  },
-  {
-    "title": "Fussball aus den Topligen – Erstes Tor für Sierro bei Parma – Real weiter im Hoch",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a299e8.webp"
-  },
-  {
-    "title": "Lausanner an der Seitenlinie – 4:5 nach 4:1: Burnley wie Lausanne-Sport",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a106ca3.webp"
-  },
-  {
-    "title": "4. Amtszeit für Infantino? – Tashima hofft auf Unterstützung der Uefa",
-    "image": "https://www.srf.ch/static/cms/images//320ws/af7d26.webp"
-  },
-  {
     "title": "Genferinnen drehen Rückstand – Auch Terchoun trifft: Servette nach Sieg beim FCZ wieder Leader",
     "image": "https://www.srf.ch/static/cms/images//320ws/1d5739.webp"
   },
@@ -156,28 +120,32 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/105d5a.webp"
   },
   {
+    "title": "Trauerfeier nach Todesfall – Teneriffa nimmt unter Tränen Abschied von de Miguel",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4bb28e.webp"
+  },
+  {
+    "title": "Fussball aus den Topligen – Erstes Tor für Sierro bei Parma – Real weiter im Hoch",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a299e8.webp"
+  },
+  {
+    "title": "Lausanner an der Seitenlinie – 4:5 nach 4:1: Burnley wie Lausanne-Sport",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a106ca3.webp"
+  },
+  {
+    "title": "Bundesliga am Samstag – Bayern München und Dortmund im Gleichschritt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d280e5.webp"
+  },
+  {
+    "title": "Premier League am Samstag – Joker Okafor sticht gegen Tottenham – Arsenal enteilt ManCity",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp"
+  },
+  {
     "title": "Super League live bei SRF – GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
     "image": "https://www.srf.ch/static/cms/images//320ws/1e33f1.webp"
   },
   {
-    "title": "Fussball aus den Topligen – Vargas verschiesst Penalty – Sevilla mit Nullnummer",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0789694.webp"
-  },
-  {
-    "title": "Bundesliga: 9. Spieltag – Muheim leitet HSV-Sieg mit weiterem Traumtor ein",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1262a2.webp"
-  },
-  {
-    "title": "3:1-Erfolg gegen Basel – Eiskalte Dysli schiesst YB zum 6. Sieg in Serie",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5cc4800.webp"
-  },
-  {
-    "title": "Schweizer Fussball-News – Frauen-Nati startet in Irland in die Nations League",
-    "image": "https://www.srf.ch/static/cms/images//320ws/79786c.webp"
-  },
-  {
-    "title": "Xhaka-Klub im Formtief – Märchenhaft war gestern: Sunderland steckt in Schwierigkeiten",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6a7233.webp"
+    "title": "NHL am Samstag/Sonntag – Josi glänzt mit 2 Assists – Devils gewinnen das Derby",
+    "image": "https://www.srf.ch/static/cms/images//320ws/eb0995.webp"
   },
   {
     "title": "Frauen-WM in Dänemark – DEB-Frauen siegen zum WM-Start",
@@ -192,16 +160,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/46e70c.webp"
   },
   {
+    "title": "Optionen sollen geprüft werden – Nach tagelangen Beratungen: IIHF spielt auf Zeit",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a66a36.webp"
+  },
+  {
     "title": "Eishockey-WM in Dänemark – Schweizerinnen gegen die USA auf verlorenem Posten",
     "image": "https://www.srf.ch/static/cms/images//320ws/6e524e.webp"
   },
   {
-    "title": "Euro Hockey Tour – Ein Neuling und ein Premierentorschütze",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ee9f33.webp"
-  },
-  {
-    "title": "Russland-Frage polarisiert – Anders als Swiss Ice Hockey: Lettischer Verband zählt die IIHF an",
-    "image": "https://www.srf.ch/static/cms/images//320ws/48628e.webp"
+    "title": "Kostyuk rückt nach – Rybakina verzichtet auf Teilnahme an den WTA Finals",
+    "image": "https://www.srf.ch/static/cms/images//320ws/bda84d.webp"
   },
   {
     "title": "News aus dem Tennis – Shelton und Alcaraz im Paris-Final – Neue Aufgabe für Monfils",
@@ -222,10 +190,6 @@
   {
     "title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
     "image": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Waltert bleibt in Chennai an Stefanini hängen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9d80e1.webp"
   },
   {
     "title": "Zum Rücktritt der Allrounderin – Michelle Gisin: Zwei goldene Momente und der bittere Abschied",
@@ -300,6 +264,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/002b43.webp"
   },
   {
+    "title": "NBA in der Nacht auf Sonntag – Aus 33 mach 14: George nicht mehr so treffsicher",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5efed2.webp"
+  },
+  {
     "title": "Weitere Sport-News – Schweizer Triathlon-Asse überzeugen",
     "image": "https://www.srf.ch/static/cms/images//320ws/a79ba77.webp"
   },
@@ -318,9 +286,5 @@
   {
     "title": "Schiess-WM in Doha – Männer und Frauen triumphieren: Doppel-Gold für Schweizer Teams",
     "image": "https://www.srf.ch/static/cms/images//320ws/1e5c2c.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Youth Olympic Games: Zweimal Gold für die Schweiz",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1c5c61.webp"
   }
 ]
