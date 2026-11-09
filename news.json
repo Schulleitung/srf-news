@@ -1,7 +1,47 @@
 [
   {
+    "title": "Der Captain ist verletzt – Doch kein Comeback: Xhaka fehlt der Nati erneut",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4dce9d.webp"
+  },
+  {
+    "title": "Tscheche bei Chur United – Spitzen-Unihockey trotz Hirntumor: Sindelar macht's vor",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6d5c1a.webp"
+  },
+  {
+    "title": "Tabubruch von Tennisprofi – Riedi macht Suizidversuch öffentlich",
+    "image": "https://www.srf.ch/static/cms/images//320ws/7564e1.webp"
+  },
+  {
+    "title": "Aktuelles zum Frauenfussball – Beney, Pilgrim und Vallotto treffen und siegen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/35fe6c.webp"
+  },
+  {
+    "title": "Fussball-Weekend in Bildern – Goldene Schuhe, grauer Nebel und ein Schweizer Duell",
+    "image": "https://www.srf.ch/static/cms/images//320ws/6949a8.webp"
+  },
+  {
+    "title": "WM in Katar – Schützin Leone als beste Schweizerin 5. im Dreistellungsmatch",
+    "image": "https://www.srf.ch/static/cms/images//320ws/38bebf.webp"
+  },
+  {
+    "title": "News aus der National League – Nach CHL-Heimspiel: Zadina lässt sich operieren und fehlt dem HCD",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a082e90.webp"
+  },
+  {
+    "title": "WTA Finals: Gruppe 1 – Gauff und Noskova starten mit Siegen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5fbbcd.webp"
+  },
+  {
+    "title": "Meier trifft doppelt – Hischier knackt bei nächstem Devils-Sieg die 500-Punkte-Marke",
+    "image": "https://www.srf.ch/static/cms/images//320ws/fec67d.webp"
+  },
+  {
     "title": "1. WM-Sieg dank 2:1 n.V. – Müller mit der Entscheidung: Die Schweiz schlägt Tschechien",
     "image": "https://www.srf.ch/static/cms/images//320ws/78597e.webp"
+  },
+  {
+    "title": "News aus der Super League – Ajeti für drei Spiele gesperrt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2f71a8.webp"
   },
   {
     "title": "13. Runde der Super League – Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
@@ -14,6 +54,22 @@
   {
     "title": "1. Saisonniederlage für Leader – Ajeti-Rot und von-Ballmoos-Out: Lugano geht in St. Gallen unter",
     "image": "https://www.srf.ch/static/cms/images//320ws/8fdd548.webp"
+  },
+  {
+    "title": "Der YB-Goalgetter jagt Rekorde – Verrückte Spielerei: Essende kann es auf 44 Saisongoals bringen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/727586.webp"
+  },
+  {
+    "title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c734d96.webp"
+  },
+  {
+    "title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5e6782.webp"
+  },
+  {
+    "title": "4:0-Sieg in Vaduz – Früher Doppelpack: Boteli-Ersatz Nivokazi ebnet Sion den Weg",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b9247e.webp"
   },
   {
     "title": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
@@ -56,14 +112,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/627ef6.webp"
   },
   {
-    "title": "Weitere Sport-News – Kuhn mit starkem Ergebnis an Radquer-EM – Juniorin mit Medaille",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b392b9c.webp"
-  },
-  {
-    "title": "An der WM in Katar – Nach Gold legen Schweizer Gewehrschützinnen Silber nach",
-    "image": "https://www.srf.ch/static/cms/images//320ws/695eac.webp"
-  },
-  {
     "title": "Motorrad: MotoGP in Katar – Marquez «nur» Zweiter – Titelentscheidung vertagt",
     "image": "https://www.srf.ch/static/cms/images//320ws/7b3efb.webp"
   },
@@ -78,22 +126,6 @@
   {
     "title": "Lüthi erläutert SIHF-Entscheid – Der Grund für den Sinneswandel? «Wir sind im Zugzwang»",
     "image": "https://www.srf.ch/static/cms/images//320ws/415f48.webp"
-  },
-  {
-    "title": "Der YB-Goalgetter jagt Rekorde – Verrückte Spielerei: Essende kann es auf 44 Saisongoals bringen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/727586.webp"
-  },
-  {
-    "title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
-    "image": "https://www.srf.ch/static/cms/images//320ws/c734d96.webp"
-  },
-  {
-    "title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5e6782.webp"
-  },
-  {
-    "title": "4:0-Sieg in Vaduz – Früher Doppelpack: Boteli-Ersatz Nivokazi ebnet Sion den Weg",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b9247e.webp"
   },
   {
     "title": "Schweizer Aerials-Trümpfe – Roth und Werner verbindet «eine der schönsten Rivalitäten»",
@@ -120,6 +152,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/105d5a.webp"
   },
   {
+    "title": "Vargas kommt verspätet – Muheim fehlt verletzt – Schmidt und Nyakossi rücken nach",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ed45569.webp"
+  },
+  {
     "title": "Trauerfeier nach Todesfall – Teneriffa nimmt unter Tränen Abschied von de Miguel",
     "image": "https://www.srf.ch/static/cms/images//320ws/4bb28e.webp"
   },
@@ -138,10 +174,6 @@
   {
     "title": "Premier League am Samstag – Joker Okafor sticht gegen Tottenham – Arsenal enteilt ManCity",
     "image": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp"
-  },
-  {
-    "title": "Super League live bei SRF – GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1e33f1.webp"
   },
   {
     "title": "NHL am Samstag/Sonntag – Josi glänzt mit 2 Assists – Devils gewinnen das Derby",
@@ -264,6 +296,14 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/002b43.webp"
   },
   {
+    "title": "Weitere Sport-News – Kuhn mit starkem Ergebnis an Radquer-EM – Juniorin mit Medaille",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b392b9c.webp"
+  },
+  {
+    "title": "An der WM in Katar – Nach Gold legen Schweizer Gewehrschützinnen Silber nach",
+    "image": "https://www.srf.ch/static/cms/images//320ws/695eac.webp"
+  },
+  {
     "title": "NBA in der Nacht auf Sonntag – Aus 33 mach 14: George nicht mehr so treffsicher",
     "image": "https://www.srf.ch/static/cms/images//320ws/5efed2.webp"
   },
@@ -278,13 +318,5 @@
   {
     "title": "News aus den US Sports – George nahe an seinem Rekord – Doncic wie einst Chamberlain",
     "image": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp"
-  },
-  {
-    "title": "18. resp. 19. Skicross-Saison – Smith und Fiva: Die «Alten» haben noch nicht genug",
-    "image": "https://www.srf.ch/static/cms/images//320ws/6c163d.webp"
-  },
-  {
-    "title": "Schiess-WM in Doha – Männer und Frauen triumphieren: Doppel-Gold für Schweizer Teams",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1e5c2c.webp"
   }
 ]
