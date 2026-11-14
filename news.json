@@ -1,5 +1,45 @@
 [
   {
+    "title": "Frauen-Slalom in Levi – Aicher kann's auch im Stangenwald – Höpli überzeugt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2000f2.webp"
+  },
+  {
+    "title": "Distorsion im Kniegelenk – Mélanie Meillard verletzt sich und verpasst Levi-Slalom",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ae308e.webp"
+  },
+  {
+    "title": "Bilanz nach Nati-Aufstieg – Huggel: «Das zeigt, wie breit und gut aufgestellt die Nati ist»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/91fa63.webp"
+  },
+  {
+    "title": "News zur Schweizer Nati – «Belastungssteuerung»: Ndoye reist aus dem Nationalteam ab",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e43ba3.webp"
+  },
+  {
+    "title": "Vor Slalom-Auftakt in Levi – Routinier Zenhäusern: Mit neuem Ski zurück zu den Anfängen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/1b0663.webp"
+  },
+  {
+    "title": "Testspiele in Südamerika – Argentinien unterliegt Uruguay, Japan schlägt junges Brasilien",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b65538.webp"
+  },
+  {
+    "title": "ATP Finals – Trotz Zverevs Nummer‑1-Status: Favoritenrolle gehört Alcaraz",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c4a7301.webp"
+  },
+  {
+    "title": "Zähringer Derby am Freitag – Derbyheld Sonny Milano verzaubert Bern (endlich) ein erstes Mal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/73459a.webp"
+  },
+  {
+    "title": "National League am Freitag – Ohne Genoni leckt diesmal die Zuger Defensive",
+    "image": "https://www.srf.ch/static/cms/images//320ws/e7bff1.webp"
+  },
+  {
+    "title": "Weitere Sport-News – Viquerat legt 3. Schweizer Rekord nach – Triathlon-Team im Pech",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4c25cb8.webp"
+  },
+  {
     "title": "Maues Spiel in Nations League – Minimalistische Nati steigt nach einem 0:0 in Slowenien auf",
     "image": "https://www.srf.ch/static/cms/images//320ws/01f826.webp"
   },
@@ -8,7 +48,7 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c27021.webp"
   },
   {
-    "title": "Rating Slowenien – Schweiz – Welche Nati-Spieler haben überzeugt, welche nicht?",
+    "title": "Rating Slowenien – Schweiz – Embolo abgestraft – Nati-Defensive überzeugt SRF-User",
     "image": "https://www.srf.ch/static/cms/images//320ws/c54228.webp"
   },
   {
@@ -18,18 +58,6 @@
   {
     "title": "WTA-Finals in Indian Wells – Top-Favoritin Sabalenka fliegt schon nach der Gruppenphase raus",
     "image": "https://www.srf.ch/static/cms/images//320ws/3c5ad3.webp"
-  },
-  {
-    "title": "Vor Saisonauftakt im Slalom – Rasts Levi-Plan: «Oben überleben, unten Skifahren»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/3648b0.webp"
-  },
-  {
-    "title": "Distorsion im Kniegelenk – Mélanie Meillard verletzt sich und verpasst Levi-Slalom",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ae308e.webp"
-  },
-  {
-    "title": "National League am Freitag – Ohne Genoni leckt diesmal die Zuger Defensive",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e7bff1.webp"
   },
   {
     "title": "WM-Viertelfinal – Eishockey-Nati der Frauen scheitert an Schweden",
@@ -60,40 +88,24 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/26f3be.webp"
   },
   {
-    "title": "Nach Tod von de Miguel – Zwölf Spiele Sperre für Torhüter Jesus Owono",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9811ef.webp"
-  },
-  {
-    "title": "Nachfolger von Carrick – Pochettino übernimmt bei Manchester United",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ae4b2f.webp"
-  },
-  {
-    "title": "Im Wankdorf gegen Österreich – Frauen-Nati stellt für WM-Playoff-Partie Publikumsrekord auf",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4a71e0.webp"
-  },
-  {
-    "title": "Rückschlag für Infantino – Gericht in New York weist Fifa-Anträge ab",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b893a60.webp"
-  },
-  {
-    "title": "Profifussball und Psychose – Schizophrenie verstehen: Kay Voser spricht über seine Erkrankung",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4798a7.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Schweizer Rekord im Schwimmen, Enttäuschung im Fechten",
-    "image": "https://www.srf.ch/static/cms/images//320ws/858583.webp"
-  },
-  {
-    "title": "News aus der Leichtathletik – Marathon-Star Kejelcha verletzt: Kein Rekordangriff in Valencia",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d9864b.webp"
-  },
-  {
     "title": "Putin: Grundsätze missachtet – Eishockey-Streit: Russland droht WM-Gastgeber Deutschland",
     "image": "https://www.srf.ch/static/cms/images//320ws/828e05.webp"
   },
   {
     "title": "Internationale Wettkämpfe – Unklarheit beim Sportgericht: Sind russische Teams zugelassen?",
     "image": "https://www.srf.ch/static/cms/images//320ws/84ce85.webp"
+  },
+  {
+    "title": "Profifussball und Psychose – Schizophrenie verstehen: Kay Voser spricht über seine Erkrankung",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4798a7.webp"
+  },
+  {
+    "title": "Nach Tod von de Miguel – Zwölf Spiele Sperre für Torhüter Jesus Owono",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9811ef.webp"
+  },
+  {
+    "title": "Nachfolger von Carrick – Pochettino übernimmt bei Manchester United",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ae4b2f.webp"
   },
   {
     "title": "Sonntag, 18:00 Uhr, SRF zwei – «Sportpanorama» mit FIS-Präsident Alexander Ospelt",
@@ -112,6 +124,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/955f6f9.webp"
   },
   {
+    "title": "Im Wankdorf gegen Österreich – Frauen-Nati stellt für WM-Playoff-Partie Publikumsrekord auf",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4a71e0.webp"
+  },
+  {
     "title": "Wegen Doping 1467 Tage weg – Nach vier Jahren Sperre: Vuskovic vor HSV-Comeback",
     "image": "https://www.srf.ch/static/cms/images//320ws/69427c.webp"
   },
@@ -124,12 +140,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/2e520f.webp"
   },
   {
-    "title": "Nations League am Donnerstag – Italien gewinnt Prestige-Duell – Kane trifft bei Jubiläum",
-    "image": "https://www.srf.ch/static/cms/images//320ws/245cb7.webp"
-  },
-  {
-    "title": "Mit Vaduz in Fahrt – Dalipi entscheidet sich für Kosovo",
-    "image": "https://www.srf.ch/static/cms/images//320ws/b8184d.webp"
+    "title": "Rückschlag für Infantino – Gericht in New York weist Fifa-Anträge ab",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b893a60.webp"
   },
   {
     "title": "Grünes Licht aus Zug – Dachrinne sei Dank: EVZ kann Heimspiel gegen die Lakers austragen",
@@ -180,6 +192,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/7564e1.webp"
   },
   {
+    "title": "Vor Saisonauftakt im Slalom – Rasts Levi-Plan: «Oben überleben, unten Skifahren»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/3648b0.webp"
+  },
+  {
     "title": "Nach schwerem Olympia-Sturz – Vonn nach 9. Operation: «Ganzer Mist ist endlich aus meinem Bein»",
     "image": "https://www.srf.ch/static/cms/images//320ws/d0f882.webp"
   },
@@ -200,8 +216,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/c456483.webp"
   },
   {
-    "title": "FIS-Präsident Ospelt im PaP – Champions League im Ski? «Kann nächstes Jahr mehr sagen»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/00909b.webp"
+    "title": "News aus der Leichtathletik – Marathon-Star Kejelcha verletzt: Kein Rekordangriff in Valencia",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d9864b.webp"
   },
   {
     "title": "Prestigeträchtige Auszeichnung – Welt-Leichtathletin des Jahres: Werro in den Top 3",
@@ -222,10 +238,6 @@
   {
     "title": "Auf Kosten des Zehnkampfs – Ehammer setzt für Olympia auf die Karte Weitsprung",
     "image": "https://www.srf.ch/static/cms/images//320ws/822ade.webp"
-  },
-  {
-    "title": "Auszeichnung für 22-Jährige – Werro zu Europas Leichtathletin des Jahres gekürt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d3ea69.webp"
   },
   {
     "title": "Formel 1 – Racing Bulls verlängern mit Lawson und Lindblad",
@@ -252,6 +264,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/64545b.webp"
   },
   {
+    "title": "Weitere Sport-News – Schweizer Rekord im Schwimmen, Enttäuschung im Fechten",
+    "image": "https://www.srf.ch/static/cms/images//320ws/858583.webp"
+  },
+  {
     "title": "News aus den US Sports – «Who let the dogs out»: Bizarres Quarterback-Manöver misslingt",
     "image": "https://www.srf.ch/static/cms/images//320ws/e5f20f.webp"
   },
@@ -270,9 +286,5 @@
   {
     "title": "37:1 in der WM-Qualifikation – Schweizer Unihockeyanerinnen mit höchstem Sieg der Geschichte",
     "image": "https://www.srf.ch/static/cms/images//320ws/9a944b.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Lochbihler verpasst Medaille – Erfolg für Basketballerinnen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/de1590.webp"
   }
 ]
