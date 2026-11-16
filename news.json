@@ -1,5 +1,45 @@
 [
   {
+    "title": "Nach Sieg an WTA Finals – Andrejewa dankt sich selbst und nimmt die Nummer 1 ins Visier",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a3ea13.webp"
+  },
+  {
+    "title": "Zwei-Satz-Sieg über Switolina – 11. neue Siegerin in Serie: Andrejewa gewinnt erstmals WTA Finals",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9093ca.webp"
+  },
+  {
+    "title": "FIS-Präsident im Gespräch – Weltcup in Südamerika? Ospelt geht Problematik «Schneemangel» an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a4b7b3f.webp"
+  },
+  {
+    "title": "Auch dank Slalom-Vorteil – Kugel-Dreikampf? Braathen & Meillard setzen Odermatt unter Druck",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c0fadf.webp"
+  },
+  {
+    "title": "Internationale Fussball-News – Lukaku beendet Nati-Karriere",
+    "image": "https://www.srf.ch/static/cms/images//320ws/611ac0.webp"
+  },
+  {
+    "title": "Aufstieg mit Jugendklub – Highlight zum Karriere-Abschluss für Chapecoense-Überlebenden",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d43e46.webp"
+  },
+  {
+    "title": "Vor 25 Jahren – Als Zeiters Horrorunfall die Eishockey-Schweiz schockte",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d5b2330.webp"
+  },
+  {
+    "title": "Erfolgreicher Nati-Coach – Vorzeitige Vertragsverlängerung mit Yakin? «Ist ihm piepegal!»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d6ae11.webp"
+  },
+  {
+    "title": "Rodriguez und Freuler – «Die coole Socke» und «der Unscheinbare» feiern Jubiläen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a4454a.webp"
+  },
+  {
+    "title": "Showdown gegen Niederlande – Viertelfinal oder Abstiegskampf: wegweisendes Spiel für DFB-Elf",
+    "image": "https://www.srf.ch/static/cms/images//320ws/11b024.webp"
+  },
+  {
     "title": "Nations League: Gruppe A3 – England beendet Spaniens Monster-Serie",
     "image": "https://www.srf.ch/static/cms/images//320ws/3e6051.webp"
   },
@@ -8,28 +48,8 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/51f42a.webp"
   },
   {
-    "title": "Zwei-Satz-Sieg über Switolina – 11. neue Siegerin in Serie: Andrejewa gewinnt erstmals WTA Finals",
-    "image": "https://www.srf.ch/static/cms/images//320ws/9093ca.webp"
-  },
-  {
-    "title": "ATP Finals in Turin – Zverev mit Auftakt nach Mass – Shelton in 3 Sätzen erfolgreich",
-    "image": "https://www.srf.ch/static/cms/images//320ws/99c8fe.webp"
-  },
-  {
-    "title": "News aus dem Tennis – Feldbausch holt zweiten Challenger-Titel",
-    "image": "https://www.srf.ch/static/cms/images//320ws/405357b.webp"
-  },
-  {
-    "title": "WTA Finals in Indian Wells – «Habe emotional reagiert»: Sabalenka gibt verbale Entgleisung zu",
-    "image": "https://www.srf.ch/static/cms/images//320ws/bf6a6b.webp"
-  },
-  {
-    "title": "Rodriguez und Freuler – «Die coole Socke» und «der Unscheinbare» feiern Jubiläen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a4454a.webp"
-  },
-  {
-    "title": "News zur Schweizer Nati – «Leichte Beschwerden»: Akanji reist vorzeitig ab",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ae9599.webp"
+    "title": "News aus der NHL und NBA – Josis Siegesserie reisst – Georges Niederlagenserie hält an",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cfe947.webp"
   },
   {
     "title": "Alle Jahre wieder – Keine Überraschungen im Halbfinal: USA und Kanada wieder im Final",
@@ -48,12 +68,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/a582a07.webp"
   },
   {
-    "title": "Pinheiro-Braathen-Sieg in Levi – «Für Mélanie gefahren»: Meillard auch im 1. Slalom auf dem Podest",
-    "image": "https://www.srf.ch/static/cms/images//320ws/5f01b7.webp"
+    "title": "ATP Finals in Turin – Zverev mit Auftakt nach Mass – Shelton in 3 Sätzen erfolgreich",
+    "image": "https://www.srf.ch/static/cms/images//320ws/99c8fe.webp"
   },
   {
-    "title": "Internationale Fussball-News – Frick wird Trainer in Aberdeen – Weiler in Washington entlassen",
-    "image": "https://www.srf.ch/static/cms/images//320ws/8fd58c8.webp"
+    "title": "News aus dem Tennis – Feldbausch holt zweiten Challenger-Titel",
+    "image": "https://www.srf.ch/static/cms/images//320ws/405357b.webp"
+  },
+  {
+    "title": "WTA Finals in Indian Wells – «Habe emotional reagiert»: Sabalenka gibt verbale Entgleisung zu",
+    "image": "https://www.srf.ch/static/cms/images//320ws/bf6a6b.webp"
+  },
+  {
+    "title": "Pinheiro-Braathen-Sieg in Levi – «Für Mélanie gefahren»: Meillard auch im 1. Slalom auf dem Podest",
+    "image": "https://www.srf.ch/static/cms/images//320ws/5f01b7.webp"
   },
   {
     "title": "Mit 46 Jahren zurück – Rückkehr erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
@@ -84,10 +112,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/fd0a39.webp"
   },
   {
-    "title": "NHL in der Nacht auf Sonntag – Hischier und Meier führen Devils zu Spektakelsieg – Fiala prügelt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ff255d.webp"
-  },
-  {
     "title": "Trainingssturz in Levi – Kreuzbandriss: Mélanie Meillards Saison ist bereits wieder vorbei",
     "image": "https://www.srf.ch/static/cms/images//320ws/87c68c.webp"
   },
@@ -108,6 +132,14 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/ae2e3b7.webp"
   },
   {
+    "title": "News zur Schweizer Nati – «Leichte Beschwerden»: Akanji reist vorzeitig ab",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ae9599.webp"
+  },
+  {
+    "title": "Internationale Fussball-News – Frick wird Trainer in Aberdeen – Weiler in Washington entlassen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/8fd58c8.webp"
+  },
+  {
     "title": "Presse reagiert deutlich – Portugal erlebt Blamage: «Cristiano hat das nicht verdient»",
     "image": "https://www.srf.ch/static/cms/images//320ws/d6c7e5.webp"
   },
@@ -124,16 +156,12 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/b65538.webp"
   },
   {
-    "title": "News zur Schweizer Nati – «Belastungssteuerung»: Ndoye reist aus dem Nationalteam ab",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e43ba3.webp"
-  },
-  {
-    "title": "Bilanz nach Nati-Aufstieg – Huggel: «Das zeigt, wie breit und gut aufgestellt die Nati ist»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/91fa63.webp"
-  },
-  {
     "title": "Kloten siegt beim Meister – Ausgerechnet in Freiburg: Berra findet zu alter Stärke zurück",
     "image": "https://www.srf.ch/static/cms/images//320ws/6bd694.webp"
+  },
+  {
+    "title": "NHL in der Nacht auf Sonntag – Hischier und Meier führen Devils zu Spektakelsieg – Fiala prügelt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ff255d.webp"
   },
   {
     "title": "National League am Samstag – 4 Tore im Schlussdrittel: Zug fügt dem ZSC die 2. Niederlage zu",
@@ -150,10 +178,6 @@
   {
     "title": "National League am Freitag – Ohne Genoni leckt diesmal die Zuger Defensive",
     "image": "https://www.srf.ch/static/cms/images//320ws/e7bff1.webp"
-  },
-  {
-    "title": "WM-Viertelfinal – Eishockey-Nati der Frauen scheitert an Schweden",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e47c9b.webp"
   },
   {
     "title": "WTA Finals in Indian Wells – Russin Andrejewa und Ukrainerin Switolina spielen um den Titel",
