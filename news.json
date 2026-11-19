@@ -1,5 +1,9 @@
 [
   {
+    "title": "Champions Hockey League – Keine Genfer Wunder-Wende: Freiburg verwaltet Vorsprung souverän",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a28c2b.webp"
+  },
+  {
     "title": "Zug feiert Heimsieg über Ajoie – Nach 114 torlosen Spielen: Stadler trifft und wird Matchwinner",
     "image": "https://www.srf.ch/static/cms/images//320ws/8eb92c.webp"
   },
@@ -12,24 +16,36 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/7e0c75.webp"
   },
   {
-    "title": "News aus dem Radsport – Roglic setzt Karriere bei Team mit Schweizer Lizenz fort",
+    "title": "News aus dem Radsport – Roglic zu Team mit Schweizer Lizenz – Romandie-Route bekannt",
     "image": "https://www.srf.ch/static/cms/images//320ws/463b54.webp"
   },
   {
-    "title": "Saison mit Heim-WM futsch – Meillard: «Schwierig, diese Verletzung zu akzeptieren»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a96d63.webp"
+    "title": "Wann, wer, was? – Kandidaten, Zeitplan, Stimmen: Übersicht zur Fifa-Präsidentenwahl",
+    "image": "https://www.srf.ch/static/cms/images//320ws/de02240.webp"
   },
   {
-    "title": "ATP Finals in Turin – Auch gegen Medwedew makellos: Alcaraz auf Kurs",
+    "title": "4. Amtszeit für Infantino? – Tashima offiziell Fifa-Präsidentschafts-Kandidat",
+    "image": "https://www.srf.ch/static/cms/images//320ws/82187e.webp"
+  },
+  {
+    "title": "Kampf um Fifa-Präsidium – Das ist Infantino-Gegner Philippe Diallo",
+    "image": "https://www.srf.ch/static/cms/images//320ws/40da66.webp"
+  },
+  {
+    "title": "Fifa-Präsidentschaft – Wie stehen die Chancen von Philippe Diallo, Infantino abzulösen?",
+    "image": "https://www.srf.ch/static/cms/images//320ws/de2a2b.webp"
+  },
+  {
+    "title": "ATP Finals in Turin – Auch gegen Medwedew makellos: Alcaraz im Halbfinal",
     "image": "https://www.srf.ch/static/cms/images//320ws/6390b5.webp"
-  },
-  {
-    "title": "ATP Finals in Turin – Erneut makellos: Zverev bereits im Halbfinal",
-    "image": "https://www.srf.ch/static/cms/images//320ws/a18d66e.webp"
   },
   {
     "title": "Bei Würdigung als Doppel-Nr. 1 – Patten kritisiert erneut ATP-Chefs: «Schade, sind sie nicht da»",
     "image": "https://www.srf.ch/static/cms/images//320ws/977a416.webp"
+  },
+  {
+    "title": "Saison mit Heim-WM futsch – Meillard: «Schwierig, diese Verletzung zu akzeptieren»",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a96d63.webp"
   },
   {
     "title": "Vor dem GP Las Vegas – F1-Titel vergeben: Warum sich das frühe Aufstehen trotzdem lohnt",
@@ -52,22 +68,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/4c402a.webp"
   },
   {
-    "title": "Wann, wer, was? – Kandidaten, Zeitplan, Stimmen: Übersicht zur Fifa-Präsidentenwahl",
-    "image": "https://www.srf.ch/static/cms/images//320ws/de02240.webp"
-  },
-  {
-    "title": "4. Amtszeit für Infantino? – Tashima offiziell Fifa-Präsidentschafts-Kandidat",
-    "image": "https://www.srf.ch/static/cms/images//320ws/82187e.webp"
-  },
-  {
-    "title": "Kampf um Fifa-Präsidium – Das ist Infantino-Gegner Philippe Diallo",
-    "image": "https://www.srf.ch/static/cms/images//320ws/40da66.webp"
-  },
-  {
-    "title": "Fifa-Präsidentschaft – Wie stehen die Chancen von Philippe Diallo, Infantino abzulösen?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/de2a2b.webp"
-  },
-  {
     "title": "Test gegen Costa Rica – 7:0: Auch das argentinische Imperium schlägt zurück",
     "image": "https://www.srf.ch/static/cms/images//320ws/0f928e.webp"
   },
@@ -78,10 +78,6 @@
   {
     "title": "Englischer Ex-Starstürmer – Rooney spricht über Tiefpunkt: «Habe an Suizid gedacht»",
     "image": "https://www.srf.ch/static/cms/images//320ws/fe9dea.webp"
-  },
-  {
-    "title": "Ohne Trainer Ancelotti – Fussballstar Vinicius und Brasilien überrollen Singapur",
-    "image": "https://www.srf.ch/static/cms/images//320ws/d8e943.webp"
   },
   {
     "title": "Vom Radsport bis zur Formel 1 – Sportanlässe, die die Schweiz bewegten",
@@ -152,6 +148,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/ae2e3b7.webp"
   },
   {
+    "title": "Ohne Trainer Ancelotti – Fussballstar Vinicius und Brasilien überrollen Singapur",
+    "image": "https://www.srf.ch/static/cms/images//320ws/d8e943.webp"
+  },
+  {
     "title": "Nach 5:0 von GER gegen NED – «Hellseher» Klopp geht viral: «Im Idealfall machen wir fünf»",
     "image": "https://www.srf.ch/static/cms/images//320ws/01dec9.webp"
   },
@@ -170,10 +170,6 @@
   {
     "title": "Internationale Fussball-News – Lukaku beendet Nati-Karriere – Frank übernimmt bei Palace",
     "image": "https://www.srf.ch/static/cms/images//320ws/611ac0.webp"
-  },
-  {
-    "title": "Showdown gegen Niederlande – Viertelfinal oder Abstiegskampf: wegweisendes Spiel für DFB-Elf",
-    "image": "https://www.srf.ch/static/cms/images//320ws/11b024.webp"
   },
   {
     "title": "Champions Hockey League – Blandisi schiesst den HC Davos in den Viertelfinal",
@@ -200,6 +196,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/efb416.webp"
   },
   {
+    "title": "ATP Finals in Turin – Erneut makellos: Zverev bereits im Halbfinal",
+    "image": "https://www.srf.ch/static/cms/images//320ws/a18d66e.webp"
+  },
+  {
     "title": "ATP Finals in Turin – 21 Winner, 9 Fehler: Alcaraz macht mit Tiafoe kurzen Prozess",
     "image": "https://www.srf.ch/static/cms/images//320ws/355899.webp"
   },
@@ -218,10 +218,6 @@
   {
     "title": "News aus dem Tennis – Feldbausch holt zweiten Challenger-Titel",
     "image": "https://www.srf.ch/static/cms/images//320ws/405357b.webp"
-  },
-  {
-    "title": "WTA Finals in Indian Wells – «Habe emotional reagiert»: Sabalenka gibt verbale Entgleisung zu",
-    "image": "https://www.srf.ch/static/cms/images//320ws/bf6a6b.webp"
   },
   {
     "title": "FIS-Präsident im Gespräch – Weltcup in Südamerika? Ospelt geht Problematik «Schneemangel» an",
