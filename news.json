@@ -1,5 +1,53 @@
 [
   {
+    "title": "MotoGP-Star hört auf – Kurz nach dem 8. WM-Titel: Marc Marquez verkündet Karriereende",
+    "image": "https://www.srf.ch/static/cms/images//320ws/c912c4.webp"
+  },
+  {
+    "title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
+    "image": "https://www.srf.ch/static/cms/images//320ws/cd688f.webp"
+  },
+  {
+    "title": "Langlauf-Auftakt in Kuusamo – Andersson und Nyenget gewinnen – Schweizer Exploit bleibt aus",
+    "image": "https://www.srf.ch/static/cms/images//320ws/750743.webp"
+  },
+  {
+    "title": "Weltcup-Auftakt im Langlauf – Heimweltcup, Tour de Ski, WM: Alles Wissenswerte zur Saison",
+    "image": "https://www.srf.ch/static/cms/images//320ws/7ba482.webp"
+  },
+  {
+    "title": "News aus dem Wintersport – Malinin knackt Weltrekord – Blatty mit Bestleistung im Monobob",
+    "image": "https://www.srf.ch/static/cms/images//320ws/45a7c2.webp"
+  },
+  {
+    "title": "Speed-Auftakt in Übersee – Von Allmens neuer Ansatz: Konstanter, aber keinesfalls langsamer",
+    "image": "https://www.srf.ch/static/cms/images//320ws/336720.webp"
+  },
+  {
+    "title": "Bei Super-G in Copper Mountain – Emotionen vor Resultat: «Neuer» Sarrazin gibt Comeback",
+    "image": "https://www.srf.ch/static/cms/images//320ws/9dba9c4.webp"
+  },
+  {
+    "title": "In ihrer Heimat Killington – Shiffrin zurück am Ort grosser Triumphe und eines herben Dämpfers",
+    "image": "https://www.srf.ch/static/cms/images//320ws/31d099.webp"
+  },
+  {
+    "title": "Keine Rückkehr der Italienerin – «Zu grosse Schmerzen»: Brignone gibt Rücktritt bekannt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/7789fc.webp"
+  },
+  {
+    "title": "Saisonstart im Bob – Vogts emotionale Rückkehr nach Altenberg – ohne Michel",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4302a3.webp"
+  },
+  {
+    "title": "Vor der Freestyle-Saison – Auch dank neuem Coach: Gremaud startet topmotiviert",
+    "image": "https://www.srf.ch/static/cms/images//320ws/06b92f8.webp"
+  },
+  {
+    "title": "Wegen hoher Kosten – Immer weniger Wettkämpfe für Freestyler im Weltcup",
+    "image": "https://www.srf.ch/static/cms/images//320ws/366e85.webp"
+  },
+  {
     "title": "Conference League: 4. Runde – Ajax eine Nummer zu gross für den FC Thun",
     "image": "https://www.srf.ch/static/cms/images//320ws/35e0fc.webp"
   },
@@ -8,32 +56,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/0fd8d3.webp"
   },
   {
+    "title": "Dank Inter d'Escaldes – Andorras Fussball-Historie ist um ein Kapitel reicher",
+    "image": "https://www.srf.ch/static/cms/images//320ws/03ddf5.webp"
+  },
+  {
     "title": "Europa League: Round-up – Milan mit Wende im «Schweizer Duell» – Pilsen überrascht",
     "image": "https://www.srf.ch/static/cms/images//320ws/bda9fc.webp"
   },
   {
-    "title": "National League am Donnerstag – Ausgerechnet! Carr schiesst Ajoie gegen Biel zum Overtime-Sieg",
-    "image": "https://www.srf.ch/static/cms/images//320ws/460f61b.webp"
-  },
-  {
-    "title": "Weitere Sport-News – Schach-WM: 3. Remis zwischen Gukesh und Sindarow",
-    "image": "https://www.srf.ch/static/cms/images//320ws/ca07d15.webp"
+    "title": "NFL in der Nacht auf Freitag – Field Goal kurz vor Schluss: Buffalo Bills gewinnen Spitzenspiel",
+    "image": "https://www.srf.ch/static/cms/images//320ws/b282d9.webp"
   },
   {
     "title": "Frust bei Schweizer NHL-Star – Niederreiter: «Der Trainer weiss selbst nicht, wie, wo und was»",
     "image": "https://www.srf.ch/static/cms/images//320ws/fbffd2.webp"
-  },
-  {
-    "title": "Männer-Einzel in Kontiolahti – Saisonstart nach Mass: Hartweg überzeugt mit Rang 5",
-    "image": "https://www.srf.ch/static/cms/images//320ws/0d6dd2.webp"
-  },
-  {
-    "title": "Fakten zur Biathlon-Saison – Premieren-WM, Favoriten und Abwesende",
-    "image": "https://www.srf.ch/static/cms/images//320ws/767bd4.webp"
-  },
-  {
-    "title": "Saisonstart im Biathlon – Baserga nach Reflexion: «... dann läuft es wie am Schnürchen»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/1e2660.webp"
   },
   {
     "title": "Pechvogel mit Kreuzbandrissen – «Für den Lebenslauf»: Gereifte Fölmli will endlich WM spielen",
@@ -44,16 +80,20 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/2f068a.webp"
   },
   {
-    "title": "Vor Saisonstart in Kuusamo – Nadja Kälin: Mit neuem Selbstvertrauen zu weiteren Erfolgen?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/234176.webp"
+    "title": "National League am Donnerstag – Ausgerechnet! Carr schiesst Ajoie gegen Biel zum Overtime-Sieg",
+    "image": "https://www.srf.ch/static/cms/images//320ws/460f61b.webp"
   },
   {
-    "title": "Vor der Freestyle-Saison – Auch dank neuem Coach: Gremaud startet topmotiviert",
-    "image": "https://www.srf.ch/static/cms/images//320ws/06b92f8.webp"
+    "title": "National League am Freitag – Audio-Konferenz: Zürichsee-Derby SCRJ – ZSC, Lausanne fordert SCB",
+    "image": "https://www.srf.ch/static/cms/images//320ws/2b9189.webp"
   },
   {
-    "title": "Wegen hoher Kosten – Immer weniger Wettkämpfe für Freestyler im Weltcup",
-    "image": "https://www.srf.ch/static/cms/images//320ws/366e85.webp"
+    "title": "Männer-Einzel in Kontiolahti – Saisonstart nach Mass: Hartweg überzeugt mit Rang 5",
+    "image": "https://www.srf.ch/static/cms/images//320ws/0d6dd2.webp"
+  },
+  {
+    "title": "Fakten zur Biathlon-Saison – Premieren-WM, Favoriten und Abwesende",
+    "image": "https://www.srf.ch/static/cms/images//320ws/767bd4.webp"
   },
   {
     "title": "Davis Cup: Viertelfinal – Auch ohne Alcaraz: Spanien folgt Grossbritannien in den Halbfinal",
@@ -74,6 +114,10 @@
   {
     "title": "Schweizer Youngster Mika Hänni – Von «mal schauen, wie lange ich noch spiele» zum WM-Debütanten",
     "image": "https://www.srf.ch/static/cms/images//320ws/5f0136.webp"
+  },
+  {
+    "title": "Weitere Sport-News – Schach-WM: 3. Remis zwischen Gukesh und Sindarow",
+    "image": "https://www.srf.ch/static/cms/images//320ws/ca07d15.webp"
   },
   {
     "title": "Krisengipfel in der Bundesliga – Lustrinelli vor Duell mit Fischer: «Finden Ketchup-Effekt»",
@@ -100,18 +144,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/00088a6.webp"
   },
   {
-    "title": "Nach 1:2 in CL in Lille – «Absolutes No-Go»: Kimmichs Musiala-Ärger nach 1. Saisonpleite",
-    "image": "https://www.srf.ch/static/cms/images//320ws/4eb257.webp"
-  },
-  {
-    "title": "5. Runde der Champions League – Horror-Eigentor von Pavlovic: Bayern verliert in Lille",
-    "image": "https://www.srf.ch/static/cms/images//320ws/dfd6a2.webp"
-  },
-  {
-    "title": "Champions League: Round-up – Sommer-Fehler leitet Brügge-Niederlage ein, PSG gibt Punkte ab",
-    "image": "https://www.srf.ch/static/cms/images//320ws/74e3aa.webp"
-  },
-  {
     "title": "Fussball-Podcast Sykora Gisler – «Wir Luzerner haben es halt nicht so hoch im Grind»",
     "image": "https://www.srf.ch/static/cms/images//320ws/b2f744d.webp"
   },
@@ -128,14 +160,6 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/89be10.webp"
   },
   {
-    "title": "Keine Rückkehr der Italienerin – «Zu grosse Schmerzen»: Brignone gibt Rücktritt bekannt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/7789fc.webp"
-  },
-  {
-    "title": "Wegen Schneemangels – Zwei Frauen-Riesenslaloms in Mont-Tremblant abgesagt",
-    "image": "https://www.srf.ch/static/cms/images//320ws/384b35.webp"
-  },
-  {
     "title": "Schach-WM – Duell der Jungstars in Genf",
     "image": "https://www.srf.ch/static/cms/images//320ws/2d3ab3.webp"
   },
@@ -148,6 +172,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/a4fb6e.webp"
   },
   {
+    "title": "Nach 1:2 in CL in Lille – «Absolutes No-Go»: Kimmichs Musiala-Ärger nach 1. Saisonpleite",
+    "image": "https://www.srf.ch/static/cms/images//320ws/4eb257.webp"
+  },
+  {
     "title": "Conference League: 4. Spieltag – «Gehen nicht als Touristen»: Thun hat bei Ajax etwas vor",
     "image": "https://www.srf.ch/static/cms/images//320ws/45d01c.webp"
   },
@@ -156,20 +184,16 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/2f55b6.webp"
   },
   {
+    "title": "5. Runde der Champions League – Horror-Eigentor von Pavlovic: Bayern verliert in Lille",
+    "image": "https://www.srf.ch/static/cms/images//320ws/dfd6a2.webp"
+  },
+  {
+    "title": "Champions League: Round-up – Sommer-Fehler leitet Brügge-Niederlage ein, PSG gibt Punkte ab",
+    "image": "https://www.srf.ch/static/cms/images//320ws/74e3aa.webp"
+  },
+  {
     "title": "Zeitpunkt der Erkrankung – Bayern weisen «Gerüchte» um Musiala zurück",
     "image": "https://www.srf.ch/static/cms/images//320ws/0d4ff9.webp"
-  },
-  {
-    "title": "Champions League, 5. Spieltag – Kommt das San Siro für Stuttgart gerade recht?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/659e8f.webp"
-  },
-  {
-    "title": "Duell mit Titelverteidiger PSG – Kann die römische Tormaschinerie endlich auch Champions League?",
-    "image": "https://www.srf.ch/static/cms/images//320ws/e44122.webp"
-  },
-  {
-    "title": "Er spielte für Inter und VfB – Kuzmanovic: «Mit einem Unentschieden wäre ich glücklich»",
-    "image": "https://www.srf.ch/static/cms/images//320ws/763d168.webp"
   },
   {
     "title": "NHL am Donnerstag – Hischier bei Sieg mit Saisontor Nummer 10",
@@ -220,6 +244,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/9c9473.webp"
   },
   {
+    "title": "Wegen Schneemangels – Zwei Frauen-Riesenslaloms in Mont-Tremblant abgesagt",
+    "image": "https://www.srf.ch/static/cms/images//320ws/384b35.webp"
+  },
+  {
     "title": "Leidgeplagte Italienerinnen – Goggia gibt Saisondebüt – Brignone trainiert wieder",
     "image": "https://www.srf.ch/static/cms/images//320ws/12934b.webp"
   },
@@ -238,10 +266,6 @@
   {
     "title": "Männer-Slalom in Gurgl – Nef steht bei norwegischem Doppelsieg erstmals auf dem Podest",
     "image": "https://www.srf.ch/static/cms/images//320ws/198fbbf.webp"
-  },
-  {
-    "title": "Rast 5. nach Aufholjagd – Colturi sorgt in Gurgl für albanische Premiere",
-    "image": "https://www.srf.ch/static/cms/images//320ws/482321.webp"
   },
   {
     "title": "Wegen Epo-Doping – Marathon-Olympiasiegerin Jepchirchir drei Jahre gesperrt",
@@ -292,6 +316,10 @@
     "image": "https://www.srf.ch/static/cms/images//320ws/39aaab.webp"
   },
   {
+    "title": "Vor Saisonstart in Kuusamo – Nadja Kälin: Mit neuem Selbstvertrauen zu weiteren Erfolgen?",
+    "image": "https://www.srf.ch/static/cms/images//320ws/234176.webp"
+  },
+  {
     "title": "NBA am Donnerstag – LeBron James mit historischem Triple-Double",
     "image": "https://www.srf.ch/static/cms/images//320ws/404722.webp"
   },
@@ -310,9 +338,5 @@
   {
     "title": "Weitere Sport-News – Kein Sieger zum Auftakt der Schach-WM – Kadetten mit Remis",
     "image": "https://www.srf.ch/static/cms/images//320ws/d9c99b5.webp"
-  },
-  {
-    "title": "Sponsoring im Wandel – Wer Geldgeber sucht, muss auf Social Media präsent sein",
-    "image": "https://www.srf.ch/static/cms/images//320ws/352c567.webp"
   }
 ]
